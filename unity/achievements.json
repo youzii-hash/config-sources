@@ -12971,6 +12971,20 @@
                     "id": 5,
                     "proicon": 1281,
                     "spe_name_bonus": 445
+                  },
+                  {
+                    "abtext": "",
+                    "ach_name": "六千日见证者",
+                    "desc": "见证赛尔号起航6000日",
+                    "threshold": "6",
+                    "title": "起航六千日",
+                    "title_color": "0xFFFFFF",
+                    "ability_title": 0,
+                    "achievement_point": 20,
+                    "hide": 0,
+                    "id": 6,
+                    "proicon": 1452,
+                    "spe_name_bonus": 563
                   }
                 ],
                 "id": 72,

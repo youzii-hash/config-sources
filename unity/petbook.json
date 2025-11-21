@@ -1414,8 +1414,8 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4834,
-            "image_id": 4834,
+            "id": 4838,
+            "image_id": 4838,
             "label": 0,
             "mon_id": 0,
             "type": 0
@@ -1425,43 +1425,10 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4835,
-            "image_id": 4835,
+            "id": 776,
+            "image_id": 1400776,
             "label": 0,
-            "mon_id": 0,
-            "type": 0
-          },
-          {
-            "desc": "",
-            "go": "app/FinalActivityPanel",
-            "redirect": "module",
-            "mintmark": [],
-            "id": 4836,
-            "image_id": 4836,
-            "label": 0,
-            "mon_id": 0,
-            "type": 0
-          },
-          {
-            "desc": "",
-            "go": "app/FinalActivityPanel",
-            "redirect": "module",
-            "mintmark": [],
-            "id": 4837,
-            "image_id": 4837,
-            "label": 0,
-            "mon_id": 0,
-            "type": 0
-          },
-          {
-            "desc": "",
-            "go": "app/FinalActivityPanel",
-            "redirect": "module",
-            "mintmark": [],
-            "id": 774,
-            "image_id": 1400774,
-            "label": 0,
-            "mon_id": 5000,
+            "mon_id": 3941,
             "type": 1
           },
           {
@@ -1469,10 +1436,10 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 775,
-            "image_id": 1400775,
+            "id": 777,
+            "image_id": 1400777,
             "label": 0,
-            "mon_id": 4648,
+            "mon_id": 3983,
             "type": 1
           }
         ]
@@ -24660,7 +24627,7 @@
       {
         "def_name": "伽玛星魂",
         "features": "运筹帷幄几经辗转，千年夙愿终将实现。伽玛星魂神秘降临！",
-        "target": "",
+        "target": "190000",
         "id": 3896
       },
       {
@@ -25182,7 +25149,7 @@
       {
         "def_name": "灵·辰坤星魂",
         "features": "高深莫测的神秘人物，现在以灵体形式存在，似乎与蜜雪儿有联系。",
-        "target": "",
+        "target": "190000",
         "id": 3983
       },
       {
@@ -30060,7 +30027,7 @@
       {
         "def_name": "无极圣武",
         "features": "星宇朽坏的存在之边陲，拳圣再度紧握长锋，义无反顾。",
-        "target": "150092",
+        "target": "",
         "id": 4800
       },
       {
@@ -30132,13 +30099,13 @@
       {
         "def_name": "埃罗曼",
         "features": "阿特米克区一家工厂的焊接工。在操作魔导技术机械时出现了失误，导致难以脱下面具和焊接装备。自称对生活影响不大，但实际上……",
-        "target": "113040",
+        "target": "",
         "id": 4812
       },
       {
         "def_name": "夏莉莉",
         "features": "阿特米克区一家工厂的机修工，埃罗曼的妹妹。技术力是扳手党成员内最厉害的，但是非常非常社恐，可以称得上有交流障碍的地步。",
-        "target": "113040",
+        "target": "",
         "id": 4813
       },
       {
@@ -30150,7 +30117,7 @@
       {
         "def_name": "火箭骑士君",
         "features": "曾经流行过的某部动画剧中的角色。他头戴面具，身背火箭喷射器，在天空之中翱翔，只是为了正义，正义！惩治恶徒，保卫弱小！让洛林卡听到弱者的声音吧！",
-        "target": "113041",
+        "target": "",
         "id": 4815
       },
       {
@@ -30174,7 +30141,7 @@
       {
         "def_name": "月桂小兔",
         "features": "在中秋出现的神秘小兔子，对桂花非常喜爱的它身上也常常带有桂花的香气。",
-        "target": "113048",
+        "target": "",
         "id": 4819
       },
       {
@@ -30210,43 +30177,43 @@
       {
         "def_name": "卡布达",
         "features": "卡布达是B系列最初制作的1号机器人，性格热血充满正义，而“卡布”是他的口头禅。",
-        "target": "113055",
+        "target": "",
         "id": 4825
       },
       {
         "def_name": "鲨鱼辣椒",
         "features": "鲨鱼辣椒是B系列中的9号机，他拥有强大的破坏力，性格狂妄自大、做事也不择手段。",
-        "target": "113055",
+        "target": "",
         "id": 4826
       },
       {
         "def_name": "蜘蛛侦探",
         "features": "蜘蛛侦探是B系列中的5号机，他非常喜欢金钱与财富，但真有了一大笔钱时，却会变得胆战心惊。",
-        "target": "113053",
+        "target": "",
         "id": 4827
       },
       {
         "def_name": "蜻蜓队长",
         "features": "在“和平星争夺战”中出现的神秘裁判机器人，总是自说自话的开始主持各种比赛。",
-        "target": "113057",
+        "target": "",
         "id": 4828
       },
       {
         "def_name": "卡布达超级形态",
         "features": "开启了超级变换形态的卡布达，实力强大，十分的神气威武。友情是卡布达强大的力量来源。",
-        "target": "113054",
+        "target": "",
         "id": 4829
       },
       {
         "def_name": "鲨鱼辣椒超级形态",
         "features": "开启了超级变换形态的鲨鱼辣椒，成为了B系列机器人之中变身时间最长，破坏力最强的机器人。",
-        "target": "113058",
+        "target": "",
         "id": 4830
       },
       {
         "def_name": "蝎子莱莱",
         "features": "蝎子莱莱是B系列中的4号机，他平时饮酒为乐，对待身边的朋友特别真诚。",
-        "target": "113060",
+        "target": "",
         "id": 4831
       },
       {
@@ -30258,7 +30225,7 @@
       {
         "def_name": "蟑螂恶霸",
         "features": "蟑螂恶霸是B系列中的8号机，他的行为粗暴，外表看起来很邪恶，但其实有着一颗温柔浪漫的心。",
-        "target": "113061",
+        "target": "",
         "id": 4833
       },
       {
@@ -30284,6 +30251,12 @@
         "features": "由派特博士改款的保姆派派，加装了针对苏摩保育工作的功能与装备。",
         "target": "114004",
         "id": 4837
+      },
+      {
+        "def_name": "笛科特",
+        "features": "由派特博士为庆典专门改款的音乐解码机械精灵，可爱的造型下似乎还隐藏着不为人知的额外功能。",
+        "target": "153201/342",
+        "id": 4838
       }
     ],
     "rec_mintmark": {

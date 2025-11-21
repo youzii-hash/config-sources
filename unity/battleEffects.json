@@ -192,6 +192,11 @@
             "efftype": 2,
             "id": 37,
             "name": "砥砺"
+          },
+          {
+            "efftype": 2,
+            "id": 38,
+            "name": "星赎"
           }
         ],
         "type": 0
