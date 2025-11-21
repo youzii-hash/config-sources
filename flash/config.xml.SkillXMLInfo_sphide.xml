@@ -103,6 +103,7 @@
 	<SpMoves id="90" monster="3866" monstername="月照星魂" moves="29170" movesname="飞白渲襟" item="1727490" itemname="无缝天缎" itemnumber="1" itemtips="使用后可为月照星魂开启全新技能：飞白渲襟" movetype="2"/>
 	<SpMoves id="91" monster="4354" monstername="狂沙之主·萨特" moves="38118" movesname="枯骨遗沙镇" item="1727491" itemname="弥尘骨" itemnumber="1" itemtips="使用后可为狂沙之主·萨特开启全新技能：枯骨遗沙镇" movetype="2"/>
 	<SpMoves id="92" monster="3586" monstername="战之狂热·英卡洛斯" moves="38119" movesname="虐饕伏苍斩" item="1727492" itemname="鏖战双镰" itemnumber="1" itemtips="使用后可为战之狂热·英卡洛斯开启全新技能：虐饕伏苍斩" movetype="2"/>
+	<SpMoves id="93" monster="3983" monstername="灵·辰坤星魂" moves="29193" movesname="蜃阙余尘" item="1727568" itemname="记忆铭刻" itemnumber="1" itemtips="使用后可为灵·辰坤星魂开启全新技能：蜃阙余尘" movetype="2"/>
 
 
 

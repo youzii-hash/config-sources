@@ -213,10 +213,10 @@ Desc:    刻印信息  tips的获得途径文字
 
 <Hotspot><!-- 本周热点 -->
 <item intro="全新精灵上线，快来看看吧！">
-      <place type= "0" ID="4834" ImageID= "4834" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4835" ImageID= "4835" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4836" ImageID= "4836" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4837" ImageID= "4837" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "0" ID="4838" ImageID= "4838" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <!-- <place type= "0" ID="4835" ImageID= "4835" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
+	  <!-- <place type= "0" ID="4836" ImageID= "4836" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
+	  <!-- <place type= "0" ID="4837" ImageID= "4837" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4829" ImageID= "4829" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4806" ImageID= "4806" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4804" ImageID= "4804" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -255,8 +255,8 @@ Desc:    刻印信息  tips的获得途径文字
       <place type= "0" ID="4641" ImageID= "4641" Label= "0"  Redirect="map|module" Go="1679;app/ValleyExpeditionHatchMainPanel"/>-->
 
 
-      <place type= "1" ID="774" monID="5000" ImageID= "1400774" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-      <place type= "1" ID="775" monID="4648" ImageID= "1400775" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "1" ID="776" monID="3941" ImageID= "1400776" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "1" ID="777" monID="3983" ImageID= "1400777" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
 	  <!-- <place type= "1" ID="768" monID="4829" ImageID= "1400768" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="769" monID="4822" ImageID= "1400769" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
       <!-- <place type= "1" ID="749" monID="4805" ImageID= "1400749" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -4197,7 +4197,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="3893" DefName="伽玛·夜煞" Type="远古 神秘" Height="140" Weight="45" Features="伽玛星魂的使徒之一，变幻莫测真假难明，深藏夜幕掩蔽杀机，夜煞已经在这茫茫宇宙中存活了千万年。" Redirect="map|module" Go="1147;app/PveRewardMallMainPanel" jumptarget="18/4_5" Target="164510"/>
 	<Monster ID="3894" DefName="千裳" Type="自然" Height="172" Weight="45" Features="双姝并蒂妙曼迷离。风姿卓越千裳降临！千裳似乎和千花有一些莫名的联系..." mapID="1385" Label="0,2,3" jumptarget="113" Target="150068"/>
 	<Monster ID="3895" DefName="艾斯德诺" Type="超能" Height="120" Weight="28" Features="漂泊游历亦有尽头，存亡之秋挺身而出。超能兄弟齐心其利断金，合体进阶幻化之巅！" mapID="1386"/>
-	<Monster ID="3896" DefName="伽玛星魂" Type="机械 次元" Height="185" Weight="95" Features="运筹帷幄几经辗转，千年夙愿终将实现。伽玛星魂神秘降临！" mapID="1386"/>
+	<Monster ID="3896" DefName="伽玛星魂" Type="机械 次元" Height="185" Weight="95" Features="运筹帷幄几经辗转，千年夙愿终将实现。伽玛星魂神秘降临！" mapID="1386" Target="190000"/>
 	<Monster ID="3897" DefName="瑰拉" Type="混沌 暗影" Height="168" Weight="50" Features="暗裔一族的后人，拥有着迷惑人心的外表，可以在无形之中对敌人造成致命伤害！"/>
 	<Monster ID="3898" DefName="光天使·杰洛恩" Type="光 飞行" Height="172" Weight="50" Features="柔虹温雅与翼相拥，辉芒天使荣光同在。光天使一直都在为迷途的精灵指引着方向..." Redirect="map|module" Go="1147;app/PveRewardMallMainPanel" jumptarget="18/4_5" Target="164510"/>
 	<Monster ID="3899" DefName="妮娜" Type="光 神秘" Height="162" Weight="45" Features="妮娜拥有着制造美梦的能力，她永远保持着一颗童心，也正是如此，她看起来像孩童般快乐！" mapID="103"/>
@@ -4284,7 +4284,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="3980" DefName="牌灵·中" Type="火 超能" Height="900" Weight="30" Features="麻将系列精灵，火热的红中，无意间闯入赛尔号的世界！" mapID="103"/>
 	<Monster ID="3981" DefName="圣诞哈姆" Type="普通" Height="900" Weight="30" Features="2019年圣诞专属萌宠，外表极尽可爱，凌厉的眼神却能让敌人不觉生惧！" Redirect="module" Go="app/ChristmasLimitPetMainPanel"/>
 	<Monster ID="3982" DefName="卡洛恩斯" Type="超能" Height="102" Weight="40" Features="卡洛达斯的超进化形态，实力不俗的祖系新星，有着远大的抱负！" Redirect="module" Go="app/NewYearsDaySpiritPageantMainPanel"/>
-	<Monster ID="3983" DefName="灵·辰坤星魂" Type="圣灵 地面" Height="198" Weight="88" Features="高深莫测的神秘人物，现在以灵体形式存在，似乎与蜜雪儿有联系。" mapID="1413" Redirect="map|module" Go="1413;app/S12StarSoulOfChenKun"/>
+	<Monster ID="3983" DefName="灵·辰坤星魂" Type="圣灵 地面" Height="198" Weight="88" Features="高深莫测的神秘人物，现在以灵体形式存在，似乎与蜜雪儿有联系。" mapID="1413" Redirect="map|module" Go="1413;app/S12StarSoulOfChenKun" Target="190000"/>
 	<Monster ID="3984" DefName="弥尔" Type="邪灵 神秘" Height="900" Weight="30" Features="被邪灵侵蚀的悲悯灵魂，力量的蛊惑让他一点点丧失了自我......" Redirect="alarm" Go="仅限H5端SPT活动获得"/>
 	<Monster ID="3985" DefName="弥萨尔" Type="邪灵 神秘" Height="900" Weight="30" Features="弥尔的进化形态，手中的法杖内汲存了众多的亡灵怨怒之力！" Redirect="alarm" Go="仅限H5端SPT活动获得"/>
 	<Monster ID="3986" DefName="启灵元神" Type="神灵" Height="180" Weight="55" Features="2020年年费精灵，查理星系的现任守护者，异世界的信仰之神，承载着人们最后的希望！" mapID="1414" Target="111500"/>
@@ -5097,7 +5097,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4797" DefName="极渊DS-001" Type="邪灵 机械" Height="72000" Weight="130000000" Features="沉眠于海洋星深海底的远古巨龙经由宇宙海盗改造成为了巨型兵器，其身体不断逸散着可怕的邪灵气息。" Redirect="module" Go="app/FinalActivityPanel" Target="150080"/>
 	<Monster ID="4798" DefName="霸颚鲛" Type="水" Height="1650" Weight="12000" Features="现任钢牙鲨族长的超进化形态。它受到深海古龙的咒术侵蚀，躯体开始向巨龙的形态转变，但最终凭借强大意志力与深海底火山带能量压制，顺利找回了自我。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/291"/>
 	<Monster ID="4799" DefName="提玛拉" Type="水 超能" Height="156" Weight="48" Features="2025包月精灵，赫星童话之《潮汐之灵》，故事中一位名叫“提玛拉”的潮汐之灵，为了追寻自己的心愿，消失在了深海之中。" Redirect="module" Go="app/FinalActivityPanel" Target="120000"/>
-	<Monster ID="4800" DefName="无极圣武" Type="远古 机械" Height="200" Weight="90" Features="星宇朽坏的存在之边陲，拳圣再度紧握长锋，义无反顾。" Redirect="module" Go="app/FinalActivityPanel" Target="150092"/>
+	<Monster ID="4800" DefName="无极圣武" Type="远古 机械" Height="200" Weight="90" Features="星宇朽坏的存在之边陲，拳圣再度紧握长锋，义无反顾。" />
 	<Monster ID="4801" DefName="小猪妖" Type="普通" Height="不详" Weight="不详" Features="来自浪浪山的小妖怪。有着一颗成就大事业的心，扮演猪八戒，与同伴一齐踏上漫漫取经路。性格正直，决心要活成自己喜欢的样子。" />
 	<Monster ID="4802" DefName="蛤蟆精" Type="水" Height="不详" Weight="不详" Features="来自浪浪山的小妖怪。取经团队中最容易杞人忧天的一员，扮演唐僧，虽然没什么战斗力，但演技还是在线的，也有着勇敢的一面。" />
 	<Monster ID="4803" DefName="猩猩怪" Type="战斗" Height="不详" Weight="不详" Features="来自浪浪山的小妖怪。身形魁梧但胆子很小，扮演孙悟空，空有一身力气但没胆子使，但一旦认真起来战斗力可不低，总之就是潜力无穷。" />
@@ -5109,31 +5109,32 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4809" DefName="薇丝珀" Type="远古 草" Height="162" Weight="45" Features="2025包月精灵，赫星童话之《奉献树》，故事讲述的是一棵树和一个小男孩一生的故事，然而这整个故事似乎都是某种隐喻。最终男孩消失不见，而树又去了哪里呢？" Redirect="module" Go="app/FinalActivityPanel" Target="350000"/>
 	<Monster ID="4810" DefName="瓦伦汀" Type="超能" Height="178" Weight="50" Features="来自洛林卡奥瑞亚斯诺瓦尔家族，以担任“出色的副手”一职为己任，力求成为大人物忠实的支援与后卫。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/308"/>
 	<Monster ID="4811" DefName="拉米兹" Type="火 电" Height="170" Weight="55" Features="出生在阿特米克区的平民，曾经在矿洞和炸药厂工作，因受魔导技术的冲击而下岗。家里有六个弟弟妹妹，因此打工挣钱压力很大。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/311"/>
-	<Monster ID="4812" DefName="埃罗曼" Type="地面 机械" Height="210" Weight="155" Features="阿特米克区一家工厂的焊接工。在操作魔导技术机械时出现了失误，导致难以脱下面具和焊接装备。自称对生活影响不大，但实际上……" Redirect="module" Go="app/FinalActivityPanel" Target="113040"/>
-	<Monster ID="4813" DefName="夏莉莉" Type="地面 超能" Height="161" Weight="49" Features="阿特米克区一家工厂的机修工，埃罗曼的妹妹。技术力是扳手党成员内最厉害的，但是非常非常社恐，可以称得上有交流障碍的地步。" Redirect="module" Go="app/FinalActivityPanel" Target="113040"/>
+	<Monster ID="4812" DefName="埃罗曼" Type="地面 机械" Height="210" Weight="155" Features="阿特米克区一家工厂的焊接工。在操作魔导技术机械时出现了失误，导致难以脱下面具和焊接装备。自称对生活影响不大，但实际上……" />
+	<Monster ID="4813" DefName="夏莉莉" Type="地面 超能" Height="161" Weight="49" Features="阿特米克区一家工厂的机修工，埃罗曼的妹妹。技术力是扳手党成员内最厉害的，但是非常非常社恐，可以称得上有交流障碍的地步。" />
 	<Monster ID="4814" DefName="娜诺" Type="战斗" Height="175" Weight="55" Features="来自阿特米克区，“扳手党”的领袖。父母曾经是晖金铸造厂的高层，后因联合币的发行，工厂解散。娜诺一直为底层工人奔走，慷慨的救济令她入不敷出。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/315"/>
-	<Monster ID="4815" DefName="火箭骑士君" Type="飞行" Height="180" Weight="70" Features="曾经流行过的某部动画剧中的角色。他头戴面具，身背火箭喷射器，在天空之中翱翔，只是为了正义，正义！惩治恶徒，保卫弱小！让洛林卡听到弱者的声音吧！" Redirect="module" Go="app/FinalActivityPanel" Target="113041"/>
+	<Monster ID="4815" DefName="火箭骑士君" Type="飞行" Height="180" Weight="70" Features="曾经流行过的某部动画剧中的角色。他头戴面具，身背火箭喷射器，在天空之中翱翔，只是为了正义，正义！惩治恶徒，保卫弱小！让洛林卡听到弱者的声音吧！" />
 	<Monster ID="4816" DefName="伊芙" Type="超能 机械" Height="169" Weight="52" Features="来自奥瑞亚区，深空计划局局长，同时也是克雷弗德的学生。同时掌握了工业科技和魔法两种知识，是两区合作中不可多得的人才。此外，她非常喜欢古早的特摄动画剧。" Redirect="module" Go="app/FinalActivityPanel" Target="150091"/>
 	<Monster ID="4817" DefName="玛艾拉" Type="冰 光" Height="162" Weight="45" Features="2025包月精灵，赫星童话之《月亮下的约定》。故事中一位叫做艾莉娅的小女孩邂逅了月灵玛艾拉。玛艾拉所展示的，究竟是一个预言，还是一段历史呢？" Redirect="module" Go="app/FinalActivityPanel" Target="120000"/>
 	<Monster ID="4818" DefName="福尔摩苏斯" Type="神秘 光" Height="178" Weight="62" Features="奥瑞亚区“灰色圣典”，在联合议会中有一席之位。他彬彬有礼，以商人自称，但隐藏在他面具之下的又是怎样一副脸孔呢？" Redirect="module" Go="app/FinalActivityPanel" Target="153201/321"/>
-	<Monster ID="4819" DefName="月桂小兔" Type="光 超能" Height="67" Weight="16" Features="在中秋出现的神秘小兔子，对桂花非常喜爱的它身上也常常带有桂花的香气。" Redirect="module" Go="app/FinalActivityPanel" Target="113048"/>
+	<Monster ID="4819" DefName="月桂小兔" Type="光 超能" Height="67" Weight="16" Features="在中秋出现的神秘小兔子，对桂花非常喜爱的它身上也常常带有桂花的香气。" />
 	<Monster ID="4820" DefName="贝尔恩克" Type="火 暗影" Height="127" Weight="65" Features="火山星上出现的未知生物，在它的身上能够提取出贝尔鲁斯和沙恩克的基因，似乎是由死黑能量强行融合而诞生的怪物。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/323"/>
 	<Monster ID="4821" DefName="巴姆" Type="火" Height="42" Weight="8" Features="在火山星深处新发现的神奇精灵，其性格与习性均与巴多类似，初步认定为巴多的亚种。但不知受什么影响，似乎失去了进化能力。" Redirect="module" Go="app/FinalActivityPanel" Target="400012"/>
 	<Monster ID="4822" DefName="星光·里奥斯" Type="火" Height="237" Weight="98" Features="火炎巨鹿·里奥斯的星光进化形态。面临危机时，里奥斯心中的意志与星球深处的能量产生共鸣，这位火山星的守护者再度迎来了新生。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/326"/>
 	<Monster ID="4823" DefName="雪璞" Type="自然 冰" Height="162" Weight="47" Features="巅峰S8赛季【曜日】开启！日光将融化一切风雪，赤日凌空，希望永存！" Redirect="module" Go="app/FinalActivityPanel" Target="200000"/>
 	<Monster ID="4824" DefName="茸炘兔" Type="火 超能" Height="43" Weight="21" Features="茸炘兔常年生活在火山星地核区域。在毛茸茸的可爱外表下，有着极为成熟稳重的性格。" Redirect="module" Go="app/FinalActivityPanel" Target="400014"/>
-	<Monster ID="4825" DefName="卡布达" Type="电 战斗" Height="153" Weight="78" Features="卡布达是B系列最初制作的1号机器人，性格热血充满正义，而“卡布”是他的口头禅。" Redirect="module" Go="app/FinalActivityPanel" Target="113055"/>
-	<Monster ID="4826" DefName="鲨鱼辣椒" Type="神秘 战斗" Height="183" Weight="72" Features="鲨鱼辣椒是B系列中的9号机，他拥有强大的破坏力，性格狂妄自大、做事也不择手段。" Redirect="module" Go="app/FinalActivityPanel" Target="113055"/>
-	<Monster ID="4827" DefName="蜘蛛侦探" Type="地面 超能" Height="162" Weight="68" Features="蜘蛛侦探是B系列中的5号机，他非常喜欢金钱与财富，但真有了一大笔钱时，却会变得胆战心惊。" Redirect="module" Go="app/FinalActivityPanel" Target="113053"/>
-	<Monster ID="4828" DefName="蜻蜓队长" Type="电 次元" Height="未知" Weight="未知" Features="在“和平星争夺战”中出现的神秘裁判机器人，总是自说自话的开始主持各种比赛。" Redirect="module" Go="app/FinalActivityPanel" Target="113057"/>
-	<Monster ID="4829" DefName="卡布达超级形态" Type="电 战斗" Height="222" Weight="78" Features="开启了超级变换形态的卡布达，实力强大，十分的神气威武。友情是卡布达强大的力量来源。" Redirect="module" Go="app/FinalActivityPanel" Target="113054"/>
-	<Monster ID="4830" DefName="鲨鱼辣椒超级形态" Type="神秘 战斗" Height="218" Weight="86" Features="开启了超级变换形态的鲨鱼辣椒，成为了B系列机器人之中变身时间最长，破坏力最强的机器人。" Redirect="module" Go="app/FinalActivityPanel" Target="113058"/>
-	<Monster ID="4831" DefName="蝎子莱莱" Type="地面 暗影" Height="173" Weight="65" Features="蝎子莱莱是B系列中的4号机，他平时饮酒为乐，对待身边的朋友特别真诚。" Redirect="module" Go="app/FinalActivityPanel" Target="113060"/>
+	<Monster ID="4825" DefName="卡布达" Type="电 战斗" Height="153" Weight="78" Features="卡布达是B系列最初制作的1号机器人，性格热血充满正义，而“卡布”是他的口头禅。" />
+	<Monster ID="4826" DefName="鲨鱼辣椒" Type="神秘 战斗" Height="183" Weight="72" Features="鲨鱼辣椒是B系列中的9号机，他拥有强大的破坏力，性格狂妄自大、做事也不择手段。"/>
+	<Monster ID="4827" DefName="蜘蛛侦探" Type="地面 超能" Height="162" Weight="68" Features="蜘蛛侦探是B系列中的5号机，他非常喜欢金钱与财富，但真有了一大笔钱时，却会变得胆战心惊。" />
+	<Monster ID="4828" DefName="蜻蜓队长" Type="电 次元" Height="未知" Weight="未知" Features="在“和平星争夺战”中出现的神秘裁判机器人，总是自说自话的开始主持各种比赛。" />
+	<Monster ID="4829" DefName="卡布达超级形态" Type="电 战斗" Height="222" Weight="78" Features="开启了超级变换形态的卡布达，实力强大，十分的神气威武。友情是卡布达强大的力量来源。" />
+	<Monster ID="4830" DefName="鲨鱼辣椒超级形态" Type="神秘 战斗" Height="218" Weight="86" Features="开启了超级变换形态的鲨鱼辣椒，成为了B系列机器人之中变身时间最长，破坏力最强的机器人。" />
+	<Monster ID="4831" DefName="蝎子莱莱" Type="地面 暗影" Height="173" Weight="65" Features="蝎子莱莱是B系列中的4号机，他平时饮酒为乐，对待身边的朋友特别真诚。" />
 	<Monster ID="4832" DefName="杜兰杜兰" Type="光 暗影" Height="164" Weight="41" Features="2025包月精灵，赫星童话之《目不可及》，故事讲述的是一位有着奇怪罕见病“隐形病”的女高中生，如何成为“隐形怪盗”这一传奇般的都市传说的。" Redirect="module" Go="app/FinalActivityPanel" Target="120000"/>
-	<Monster ID="4833" DefName="蟑螂恶霸" Type="暗影 战斗" Height="156" Weight="78" Features="蟑螂恶霸是B系列中的8号机，他的行为粗暴，外表看起来很邪恶，但其实有着一颗温柔浪漫的心。" Redirect="module" Go="app/FinalActivityPanel" Target="113061"/>
+	<Monster ID="4833" DefName="蟑螂恶霸" Type="暗影 战斗" Height="156" Weight="78" Features="蟑螂恶霸是B系列中的8号机，他的行为粗暴，外表看起来很邪恶，但其实有着一颗温柔浪漫的心。"  />
 	<Monster ID="4834" DefName="重装·派鲁基达" Type="机械" Height="225" Weight="102" Features="由派特博士改款的重装·派鲁基达，造型拉风，实力强劲。是陪伴在赛尔身边的得力帮手。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/338"/>
 	<Monster ID="4835" DefName="烟火派派" Type="火 机械" Height="124" Weight="36" Features="由派特博士改款的烟火派派，加装了针对庆典相关工作的功能与装备。" Redirect="module" Go="app/FinalActivityPanel" Target="114012"/>
 	<Monster ID="4836" DefName="观星派派" Type="水 机械" Height="128" Weight="35" Features="由派特博士改款的观星派派，加装了针对宇宙探索工作的功能与装备。" Redirect="module" Go="app/FinalActivityPanel" Target="114012"/>
 	<Monster ID="4837" DefName="保姆派派" Type="草 机械" Height="119" Weight="33" Features="由派特博士改款的保姆派派，加装了针对苏摩保育工作的功能与装备。" Redirect="module" Go="app/FinalActivityPanel" Target="114004"/>
+	<Monster ID="4838" DefName="笛科特" Type="机械 超能" Height="146" Weight="74" Features="由派特博士为庆典专门改款的音乐解码机械精灵，可爱的造型下似乎还隐藏着不为人知的额外功能。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/342"/>
 
 </root>

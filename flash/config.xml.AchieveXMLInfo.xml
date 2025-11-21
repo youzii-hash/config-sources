@@ -334,7 +334,7 @@
 			</Branch>
 		</Branches>
 
-	<Branches ID="52" Desc="特殊成就">
+		<Branches ID="52" Desc="特殊成就">
 			<Branch ID="173" Desc="循星之旅">
 				<Rule ID="1" Threshold="1" AchievementPoint="5" achName="起航500天纪念"  Desc="参与循星之旅-累积航行500天获得" proicon="1449" icon="1" />
 				<Rule ID="2" Threshold="2" AchievementPoint="10" achName="起航1000天纪念"  Desc="参与循星之旅-累积航行1000天获得" proicon="1449" icon="1" />
@@ -1380,6 +1380,7 @@
 				<Rule ID="3" Threshold="3" AchievementPoint="20" achName="四周年见证者"  Desc="赛尔号四周年庆典"  proicon="479"  icon="4" SpeNameBonus="112"  title="庆典先锋官"/>
 				<Rule ID="4" Threshold="4" AchievementPoint="20" achName="五周年见证者"  Desc="赛尔号五周年庆典"  proicon="600"  icon="4" SpeNameBonus="155"  title="庆典大使"/>
 				<Rule ID="5" Threshold="5" AchievementPoint="20" achName="五千日见证者"  Desc="见证赛尔号起航5000日"  proicon="1281"  icon="4" SpeNameBonus="445"  title="起航五千日"/>
+				<Rule ID="6" Threshold="6" AchievementPoint="20" icon="4" achName="六千日见证者" proicon="1452" SpeNameBonus="563" title="起航六千日" Desc="见证赛尔号起航6000日" titleColor="0xFFFFFF" />
 
 			</Branch>
 		</Branches>
@@ -1794,6 +1795,7 @@
 				<Rule ID="22" Threshold="22" AchievementPoint="10" icon="1" achName="海洋之友" proicon="1423" SpeNameBonus="549" title="海洋之友" Desc="与海洋星居民建立友谊" titleColor="0xFFFFFF" />
 				<Rule ID="23" Threshold="23" AchievementPoint="10" icon="1" achName="星海引航员" proicon="1450" SpeNameBonus="561" title="星海引航员" Desc="参与活动【星海归航】获取" titleColor="0xFFFFFF" />
 				<Rule ID="24" Threshold="24" AchievementPoint="10" icon="1" achName="六千昼夜" proicon="1451" SpeNameBonus="562" title="六千昼夜" Desc="参与活动【航行橱窗】获取" titleColor="0xFFFFFF" />
+				
 				
 			</Branch>
 

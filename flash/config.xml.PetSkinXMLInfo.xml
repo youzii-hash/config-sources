@@ -11,6 +11,7 @@ SkinEffectArgs：SkinEffectID的参数
 skinkind id 皮肤种类id 
 SkinKind Type:  1:限时皮肤  2:永久皮肤
 LifeTime:限时天数
+Jumptarget：unity跳转，读jumptarget表
 
 SkinType：该皮肤所属的系列id（1-巅峰时装 2-星海誓约 3-夏日奇遇 4-童话梦境 5-江湖令 6-洛林卡之星 7-时代轨迹 8-月满中秋 9-铁甲小宝 10-万圣惊魂夜）
 Year：该皮肤所属的年份（当前仅面向巅峰时装）
@@ -2255,7 +2256,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
-	<Skin ID="693" MonID="4721" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="2" Name="真红之视·索比拉特" Go="1720;app/AnHunSuoBiLaTeMainPanel" GoType="map|module">
+	<Skin ID="693" MonID="4721" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="2" Name="真红之视·索比拉特" Go="1720;app/AnHunSuoBiLaTeMainPanel" GoType="map|module" Jumptarget="150071">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
@@ -2536,15 +2537,15 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>	
 
-    <Skin ID="763" MonID="4823" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="冬日礼装·雪璞" Go="app/FinalActivityPanel" GoType="module">
+    <Skin ID="763" MonID="4823" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="冬日礼装·雪璞" Go="app/FinalActivityPanel" GoType="module" Jumptarget="202000">
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="1" Year="2025"/>
 	</Skin>	
 
-    <Skin ID="764" MonID="3524" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="源初躁动·乔列尼德" Go="app/FinalActivityPanel" GoType="module">
+    <Skin ID="764" MonID="3524" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="源初躁动·乔列尼德" Go="app/FinalActivityPanel" GoType="module" Jumptarget="410000">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>	
 
-    <Skin ID="765" MonID="4454" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="15" Name="极夜暮歌·黑沃德" Go="app/FinalActivityPanel" GoType="module">
+    <Skin ID="765" MonID="4454" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="15" Name="极夜暮歌·黑沃德" Go="app/FinalActivityPanel" GoType="module" Jumptarget="204000">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>	
 
@@ -2580,11 +2581,19 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="10"/>
 	</Skin>	
 
-    <Skin ID="774" MonID="5000" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="19" Name="世界之脉·圣灵谱尼" Go="app/FinalActivityPanel" GoType="module">
+    <Skin ID="774" MonID="5000" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="19" Name="世界之脉·圣灵谱尼" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114006">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>	
 
-    <Skin ID="775" MonID="4648" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="19" Name="潮汐之主·星光鲁斯王" Go="app/FinalActivityPanel" GoType="module">
+    <Skin ID="775" MonID="4648" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="19" Name="潮汐之主·星光鲁斯王" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114006">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>	
+
+    <Skin ID="776" MonID="3941" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Name="霍德尔" Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>	
+
+    <Skin ID="777" MonID="3983" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="2" Name="皑雪·辰坤星魂" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114017">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>	
 

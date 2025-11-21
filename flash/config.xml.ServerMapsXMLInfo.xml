@@ -667,7 +667,7 @@ eg:
 		</Monsters>
 		<Bosses>
 			<Boss AppearTime="0 23" Name="咤克斯的分身" >
-				<BossMon MonID="5008" Hp="2000" Lv="105" NewSeIdxs="177 70 72 146 115 79 58 86"/>
+				<BossMon MonID="15008" Hp="2000" Lv="105" NewSeIdxs="177 70 72 146 115 79 58 86"/>
 			</Boss>
 			<Boss AppearTime="20 21" Name="20120615行侠仗义" >
 				<BossMon MonID="58" LvHpMatchUser="5" Hp="0" Lv="0"/>
@@ -1229,22 +1229,22 @@ eg:
 		<!-- 20241229新增 雷娜 1611，删去比比鼠和仙人掌-->
 		<Bosses>
 			<Boss Symbol="1" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="雷伊体力特训">
-				<BossMon MonID="5002" Hp="800" Lv="50" NewSeIdxs="108 79 58"/>
+				<BossMon MonID="15002" Hp="800" Lv="50" NewSeIdxs="108 79 58"/>
 			</Boss>
 			<Boss Symbol="2" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="雷伊防御特训">
-				<BossMon MonID="5002" Hp="600" Lv="50" NewSeIdxs="9 79 58 71"/>
+				<BossMon MonID="15002" Hp="600" Lv="50" NewSeIdxs="9 79 58 71"/>
 			</Boss>
 			<Boss Symbol="3" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="雷伊特防特训">
-				<BossMon MonID="5002" Hp="600" Lv="50" NewSeIdxs="9 79 58 73"/>
+				<BossMon MonID="15002" Hp="600" Lv="50" NewSeIdxs="9 79 58 73"/>
 			</Boss>
 			<Boss Symbol="4" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="雷伊攻击特训">
-				<BossMon MonID="5002" Hp="500" Lv="50" NewSeIdxs="56 79 58 70"/>
+				<BossMon MonID="15002" Hp="500" Lv="50" NewSeIdxs="56 79 58 70"/>
 			</Boss>
 			<Boss Symbol="5" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="雷伊特攻特训">
-				<BossMon MonID="5002" Hp="500" Lv="50" NewSeIdxs="95 79 58 70"/>
+				<BossMon MonID="15002" Hp="500" Lv="50" NewSeIdxs="95 79 58 70"/>
 			</Boss>
 			<Boss Symbol="6" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="雷伊速度特训">
-				<BossMon MonID="5002" Hp="500" Lv="50" NewSeIdxs="111 79 58 53"/>
+				<BossMon MonID="15002" Hp="500" Lv="50" NewSeIdxs="111 79 58 53"/>
 			</Boss>
 			<Boss Id="6" TaskID="306" AppearTime="0 23" BossVisible="1"  Name="SPT雷伊"
 				BonusProbability="20" BonusTotalProbability="1000" BonusID="5016" ItemBonusOutID="2" SptLevel="1">
@@ -1255,7 +1255,7 @@ eg:
 
 			</Boss>
 			<Boss Symbol="17" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="雷伊技能特训之雷伊幻影">
-				<BossMon MonID="5005" Hp="1200" Lv="100" NewSeIdxs="149 95 1 2 58 156"/>
+				<BossMon MonID="15005" Hp="1200" Lv="100" NewSeIdxs="149 95 1 2 58 156"/>
 			</Boss>
 			<Boss TaskID="306" AppearTime="0 23" BossVisible="1"  Name="SPT雷伊 许愿树弱化"
 				BonusProbability="20" BonusTotalProbability="1000" BonusID="5016" ItemBonusOutID="2">
@@ -1599,7 +1599,7 @@ eg:
 	<Map ID="48" Name="海盗要塞废墟" InitX="847" InitY="120" ShapeshiftMons="1">
 		<Bosses>
 			<Boss AppearTime="0 23" BossVisible="0" Name="">
-				<BossMon MonID="5003" Hp="10000" Lv="80" NewSeIdxs="85"/>
+				<BossMon MonID="15003" Hp="10000" Lv="80" NewSeIdxs="85"/>
 			</Boss>
 			<Boss AppearTime="0 23" BossVisible="0" Name="奇洛">
 				<BossMon MonID="56" LvHpMatchUser="2" Hp="0" Lv="0"/>
@@ -1778,13 +1778,13 @@ eg:
 		</Monsters>
 		<Bosses>
 			<Boss AppearTime="19 21" Name="20110106小魔王" >
-				<BossMon MonID="5006" Hp="70" Lv="30" />
+				<BossMon MonID="15006" Hp="70" Lv="30" />
 			</Boss>
 			<Boss BossCatchable="1" AppearTime="19 21" Name="20110106莎莉" >
 				<BossMon MonID="604" Hp="42" Lv="16" />
 			</Boss>
 			<Boss AppearTime="0 23" Name="咤克斯的分身" >
-				<BossMon MonID="5009" Hp="2000" Lv="105" NewSeIdxs="176 1 2 104 79 58 86"/>
+				<BossMon MonID="15009" Hp="2000" Lv="105" NewSeIdxs="176 1 2 104 79 58 86"/>
 			</Boss>
 			<Boss BossCatchable="1" AppearTime="0 23" Name="20110310稀有精灵" >
 				<BossMon MonID="701" Hp="48" Lv="16" />
@@ -2001,7 +2001,7 @@ eg:
 				<!--<BossMon MonID="421" Hp="3000" Lv="60" NewSeIdxs="58 79 110 159"/>-->
 			</Boss>
 			<Boss Symbol="23" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="盖亚特训2--厄尔塞拉">
-                <BossMon MonID="5019" Hp="3000" Lv="80" NewSeIdxs="2 58 187 149 79"/>
+                <BossMon MonID="15019" Hp="3000" Lv="80" NewSeIdxs="2 58 187 149 79"/>
             </Boss>
 			<Boss TaskID="2016" AppearTime="0 23" BossVisible="0" Name="s级厄尔塞拉"
 				BonusProbability="20" BonusTotalProbability="1000" BonusID="5017" ItemBonusOutID="6" SptLevel="2">
@@ -2064,10 +2064,10 @@ eg:
 	        	<BossMon MonID="875" Hp="1600" Lv="70" NewSeIdxs="116 104 48 131 58 142 110 1478"/>
 	        </Boss>
 			<Boss Symbol="22" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="盖亚特训--雷伊">
-				<BossMon MonID="5017" Hp="3000" Lv="70" NewSeIdxs="149 185"/>
+				<BossMon MonID="15017" Hp="3000" Lv="70" NewSeIdxs="149 185"/>
 			</Boss>
 			<Boss Symbol="23" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="盖亚特训2--厄尔塞拉">
-                <BossMon MonID="5019" Hp="3000" Lv="80" NewSeIdxs="2 58 187 149 79"/>
+                <BossMon MonID="15019" Hp="3000" Lv="80" NewSeIdxs="2 58 187 149 79"/>
             </Boss>
 			<Boss Symbol="24" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="盖亚特训第三季">
 				<BossMon MonID="216" Hp="1900" Lv="80" NewSeIdxs="188 76"/>
@@ -3951,7 +3951,7 @@ eg:
 				BonusProbability="400" BonusTotalProbability="1000" BonusID="5017" ItemBonusOutID="5">
 			<GbtlBoss MonId="391" Hp="70000" Lv="70" NewSeIdxs="58 48 53 2 79 127 129" />
 			<GbtlBoss MonId="413" Hp="150000" Lv="100" NewSeIdxs="1 2 127 58 63 70 128" />
-			<GbtlBoss MonId="5001" Hp="80000" Lv="80" NewSeIdxs="1 113 58 131 130 127" />
+			<GbtlBoss MonId="15001" Hp="80000" Lv="80" NewSeIdxs="1 113 58 131 130 127" />
 		</GbtlBosses>
 	</Map>
 
@@ -3960,7 +3960,7 @@ eg:
 				BonusProbability="400" BonusTotalProbability="1000" BonusID="5017" ItemBonusOutID="5">
 			<GbtlBoss MonId="391" Hp="70000" Lv="70" NewSeIdxs="58 48 53 2 79 127 129" />
 			<GbtlBoss MonId="413" Hp="150000" Lv="100" NewSeIdxs="1 2 127 58 63 70 128" />
-			<GbtlBoss MonId="5001" Hp="80000" Lv="80" NewSeIdxs="1 113 58 131 130 127" />
+			<GbtlBoss MonId="15001" Hp="80000" Lv="80" NewSeIdxs="1 113 58 131 130 127" />
 		</GbtlBosses>
 	</Map>
 
@@ -4455,7 +4455,7 @@ eg:
 				<BossMon MonID="490" Hp="5000" Lv="80" NewSeIdxs="84"/>
 			</Boss>
 			<Boss Id="4" Symbol="22" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="盖亚特训--雷伊">
-				<BossMon MonID="5017" Hp="3000" Lv="70" NewSeIdxs="149 185"/>
+				<BossMon MonID="15017" Hp="3000" Lv="70" NewSeIdxs="149 185"/>
 			</Boss>
 			<Boss Id="5" Symbol="24" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="盖亚特训第三季">
 				<BossMon MonID="216" Hp="1900" Lv="80" NewSeIdxs="188 76"/>
@@ -4677,13 +4677,13 @@ eg:
 	<Map ID="430" Name="拖梯星第二场景" InitX="90" InitY="420" StarExplorationID="19">
 		<Bosses>
 			<Boss TaskID="322" AppearTime="0 23" BossVisible="0" Name="SPT亚伦斯" SptLevel="1">
-				<BossMon MonID="5012" Hp="2000" Lv="80" NewSeIdxs="178 58 110"/>
+				<BossMon MonID="15012" Hp="2000" Lv="80" NewSeIdxs="178 58 110"/>
 			</Boss>
 			<Boss AppearTime="0 23" BossVisible="0" Name="弱化SPT亚伦斯">
 				<BossMon MonID="672" Hp="2000" Lv="80" NewSeIdxs="2 58 110"/>
 			</Boss>
 			<Boss TaskID="2022" AppearTime="0 23" BossVisible="0" Name="SPT亚伦斯" SptLevel="2">
-				<BossMon MonID="5012" Hp="5000" Lv="100" NewSeIdxs="1533 58 1497 1501 177 178 7 113"/>
+				<BossMon MonID="15012" Hp="5000" Lv="100" NewSeIdxs="1533 58 1497 1501 177 178 7 113"/>
 			</Boss>
 			<!--20141226 SPT boss 弱化-->
 			<!--<Boss ID="3" TaskID="322" AppearTime="0 23" BossVisible="0" Name="SPT亚伦斯" SptLevel="4">
@@ -4764,7 +4764,7 @@ eg:
 				<BossMon MonID="547" Hp="45" Lv="16" />
 			</Boss>
 			<Boss AppearTime="0 23" Name="咤克斯的分身" >
-				<BossMon MonID="5010" Hp="2000" Lv="105" NewSeIdxs="71 47 113 67 79 58 86"/>
+				<BossMon MonID="15010" Hp="2000" Lv="105" NewSeIdxs="71 47 113 67 79 58 86"/>
 			</Boss>
 			<Boss TaskID="2018" AppearTime="0 23" BossVisible="0" Name="SPT克拉尼特" SptLevel="2">
 				<BossMon MonID="538" Hp="10000" Lv="100" NewSeIdxs="1533 58 1497 1501 11 53 113 132"/>
@@ -4880,7 +4880,7 @@ eg:
 	<Map ID="443" Name="极冻边缘" InitX="466" InitY="376" >
 		<Bosses>
 			<Boss AppearTime="0 23" Name="咤克斯的分身" >
-            	<BossMon MonID="5011" Hp="10000" Lv="105" NewSeIdxs="80 85"/>
+            	<BossMon MonID="15011" Hp="10000" Lv="105" NewSeIdxs="80 85"/>
         	</Boss>
 		</Bosses>
     </Map>
@@ -5558,16 +5558,16 @@ eg:
 				<BossMon MonID="672" Hp="5000" Lv="100" NewSeIdxs="132 11 73 71 58 110"/>
 			</Boss>
 			<Boss Symbol="20" BossVisible="0" AppearTime="0 23" Name="电白虎" >
-				<BossMon MonID="5013" Hp="1250" Lv="105" NewSeIdxs="104 55 181 182 2 79 142 110"/>
+				<BossMon MonID="15013" Hp="1250" Lv="105" NewSeIdxs="104 55 181 182 2 79 142 110"/>
 			</Boss>
 			<Boss Symbol="21" BossVisible="0" AppearTime="0 23" Name="变大的战虎" >
-				<BossMon MonID="5015" Hp="1500" Lv="105" NewSeIdxs="113 116 181 2 1 53 48 99"/>
+				<BossMon MonID="15015" Hp="1500" Lv="105" NewSeIdxs="113 116 181 2 1 53 48 99"/>
 			</Boss>
 			<Boss Symbol="20" BossVisible="0" AppearTime="0 23" Name="战斗白虎" >
-				<BossMon MonID="5014" Hp="1250" Lv="105" NewSeIdxs="113 116 79 2 1 53 48 110"/>
+				<BossMon MonID="15014" Hp="1250" Lv="105" NewSeIdxs="113 116 79 2 1 53 48 110"/>
 			</Boss>
 			<Boss Symbol="21" BossVisible="0" AppearTime="0 23" Name="变大的电虎" >
-				<BossMon MonID="5016" Hp="1500" Lv="105" NewSeIdxs="104 55 181 2 79 53 48 99"/>
+				<BossMon MonID="15016" Hp="1500" Lv="105" NewSeIdxs="104 55 181 2 79 53 48 99"/>
 			</Boss>
 			<Boss TaskID="147" BossVisible="0" AppearTime="0 23" Name="白虎" >
 				<BossMon MonID="503" Hp="25000" Lv="105" NewSeIdxs="104 183 58 2 1 79 131 99"/>
@@ -5977,7 +5977,7 @@ eg:
 				BonusProbability="400" BonusTotalProbability="1000" BonusID="5017" ItemBonusOutID="5">
 			<GbtlBoss MonId="391" Hp="70000" Lv="70" NewSeIdxs="58 48 53 2 79 127 129" />
 			<GbtlBoss MonId="413" Hp="150000" Lv="100" NewSeIdxs="1 2 127 58 63 70 128" />
-			<GbtlBoss MonId="5001" Hp="80000" Lv="80" NewSeIdxs="1 113 58 131 130 127" />
+			<GbtlBoss MonId="15001" Hp="80000" Lv="80" NewSeIdxs="1 113 58 131 130 127" />
 		</GbtlBosses>
 	</Map>
 
@@ -6467,7 +6467,7 @@ eg:
 				BonusProbability="400" BonusTotalProbability="1000" BonusID="5017" ItemBonusOutID="5">
 			<GbtlBoss MonId="391" Hp="70000" Lv="70" NewSeIdxs="58 48 53 2 79 127 129" />
 			<GbtlBoss MonId="413" Hp="150000" Lv="100" NewSeIdxs="1 2 127 58 63 70 128" />
-			<GbtlBoss MonId="5001" Hp="80000" Lv="80" NewSeIdxs="1 113 58 131 130 127" />
+			<GbtlBoss MonId="15001" Hp="80000" Lv="80" NewSeIdxs="1 113 58 131 130 127" />
 		</GbtlBosses>
 	</Map>
 
@@ -9715,37 +9715,37 @@ eg:
 				<BossMon MonID="703" Hp="100" Lv="25" />
 			</Boss>
 			<Boss Id="6" AppearTime="0 23" BossVisible="0" Name="雷神雷伊">
-				<BossMon MonID="5005" Hp="6000" Lv="100"/>
+				<BossMon MonID="15005" Hp="6000" Lv="100"/>
 			</Boss>
 			<Boss Id="7" AppearTime="0 23" BossVisible="0" Name="伊兰迪">
 				<BossMon MonID="1850" Hp="6000" Lv="100"/>
 			</Boss>
 			<Boss Id="8" AppearTime="0 23" BossVisible="0" Name="雷神雷伊">
-				<BossMon MonID="5005" Hp="4000" Lv="80"/>
+				<BossMon MonID="15005" Hp="4000" Lv="80"/>
 			</Boss>
 			<Boss Id="9" AppearTime="0 23" BossVisible="0" Name="伊兰迪">
 				<BossMon MonID="1850" Hp="4000" Lv="80"/>
 			</Boss>
 			<Boss Id="10" AppearTime="0 23" BossVisible="0" Name="雷神雷伊">
-				<BossMon MonID="5005" Hp="2000" Lv="70"/>
+				<BossMon MonID="15005" Hp="2000" Lv="70"/>
 			</Boss>
 			<Boss Id="11" AppearTime="0 23" BossVisible="0" Name="伊兰迪">
 				<BossMon MonID="1850" Hp="2000" Lv="70"/>
 			</Boss>
 			<Boss Id="12" AppearTime="0 23" BossVisible="0" Name="雷神雷伊">
-				<BossMon MonID="5005" Hp="800" Lv="60"/>
+				<BossMon MonID="15005" Hp="800" Lv="60"/>
 			</Boss>
 			<Boss Id="13" AppearTime="0 23" BossVisible="0" Name="伊兰迪">
 				<BossMon MonID="1850" Hp="800" Lv="60"/>
 			</Boss>
 			<Boss Id="14" AppearTime="0 23" BossVisible="0" Name="雷神雷伊">
-				<BossMon MonID="5005" Hp="150" Lv="40"/>
+				<BossMon MonID="15005" Hp="150" Lv="40"/>
 			</Boss>
 			<Boss Id="15" AppearTime="0 23" BossVisible="0" Name="伊兰迪">
 				<BossMon MonID="1850" Hp="150" Lv="40"/>
 			</Boss>
 			<Boss Id="16" AppearTime="0 23" BossVisible="0" Name="雷神雷伊">
-				<BossMon MonID="5005" Hp="80" Lv="20"/>
+				<BossMon MonID="15005" Hp="80" Lv="20"/>
 			</Boss>
 			<Boss Id="17" AppearTime="0 23" BossVisible="0" Name="伊兰迪">
 				<BossMon MonID="1850" Hp="80" Lv="20"/>
@@ -10742,7 +10742,7 @@ eg:
                 <BossMon MonID="1912" Hp="6000" Lv="100"/>
             </Boss>
             <Boss Id="14" AppearTime="0 23" BossVisible="0" Name="雷神雷伊">
-                <BossMon MonID="5005" Hp="4000" Lv="80"/>
+                <BossMon MonID="15005" Hp="4000" Lv="80"/>
             </Boss>
             <Boss Id="15" AppearTime="0 23" BossVisible="0" Name="巴洛卡娜">
                 <BossMon MonID="1912" Hp="4000" Lv="80"/>
@@ -10754,7 +10754,7 @@ eg:
                 <BossMon MonID="1912" Hp="2000" Lv="70"/>
             </Boss>
             <Boss Id="18" AppearTime="0 23" BossVisible="0" Name="雷神雷伊">
-                <BossMon MonID="5005" Hp="800" Lv="60"/>
+                <BossMon MonID="15005" Hp="800" Lv="60"/>
             </Boss>
             <Boss Id="19" AppearTime="0 23" BossVisible="0" Name="巴洛卡娜">
                 <BossMon MonID="1912" Hp="800" Lv="60"/>
@@ -10766,7 +10766,7 @@ eg:
                 <BossMon MonID="1912" Hp="150" Lv="40"/>
             </Boss>
             <Boss Id="22" AppearTime="0 23" BossVisible="0" Name="雷神雷伊">
-                <BossMon MonID="5005" Hp="80" Lv="20"/>
+                <BossMon MonID="15005" Hp="80" Lv="20"/>
             </Boss>
             <Boss Id="23" AppearTime="0 23" BossVisible="0" Name="巴洛卡娜">
                 <BossMon MonID="1912" Hp="80" Lv="20"/>
@@ -11501,25 +11501,25 @@ eg:
 	<Map ID="1003" Name="雷霆之境" InitX="636" InitY="500">
 		<Bosses>
 			<Boss Symbol="1" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="雷伊体力特训">
-				<BossMon MonID="5002" Hp="800" Lv="50" NewSeIdxs="108 79 58"/>
+				<BossMon MonID="15002" Hp="800" Lv="50" NewSeIdxs="108 79 58"/>
 			</Boss>
 			<Boss Symbol="2" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="雷伊防御特训">
-				<BossMon MonID="5002" Hp="600" Lv="50" NewSeIdxs="9 79 58 71"/>
+				<BossMon MonID="15002" Hp="600" Lv="50" NewSeIdxs="9 79 58 71"/>
 			</Boss>
 			<Boss Symbol="3" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="雷伊特防特训">
-				<BossMon MonID="5002" Hp="600" Lv="50" NewSeIdxs="9 79 58 73"/>
+				<BossMon MonID="15002" Hp="600" Lv="50" NewSeIdxs="9 79 58 73"/>
 			</Boss>
 			<Boss Symbol="4" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="雷伊攻击特训">
-				<BossMon MonID="5002" Hp="500" Lv="50" NewSeIdxs="56 79 58 70"/>
+				<BossMon MonID="15002" Hp="500" Lv="50" NewSeIdxs="56 79 58 70"/>
 			</Boss>
 			<Boss Symbol="5" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="雷伊特攻特训">
-				<BossMon MonID="5002" Hp="500" Lv="50" NewSeIdxs="95 79 58 70"/>
+				<BossMon MonID="15002" Hp="500" Lv="50" NewSeIdxs="95 79 58 70"/>
 			</Boss>
 			<Boss Symbol="6" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="雷伊速度特训">
-				<BossMon MonID="5002" Hp="500" Lv="50" NewSeIdxs="111 79 58 53"/>
+				<BossMon MonID="15002" Hp="500" Lv="50" NewSeIdxs="111 79 58 53"/>
 			</Boss>
 			<Boss Symbol="17" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="雷伊技能特训之雷伊幻影">
-				<BossMon MonID="5005" Hp="1200" Lv="100" NewSeIdxs="149 95 1 2 58 156"/>
+				<BossMon MonID="15005" Hp="1200" Lv="100" NewSeIdxs="149 95 1 2 58 156"/>
 			</Boss>
         </Bosses>
 	</Map>
@@ -15551,7 +15551,7 @@ eg:
 		</Monsters>
 		<Bosses>
 			<Boss AppearTime="0 23" Name="咤克斯的分身" >
-				<BossMon MonID="5008" Hp="2000" Lv="105" NewSeIdxs="177 70 72 146 115 79 58 86"/>
+				<BossMon MonID="15008" Hp="2000" Lv="105" NewSeIdxs="177 70 72 146 115 79 58 86"/>
 			</Boss>
 			<Boss AppearTime="20 21" Name="20120615行侠仗义" >
 				<BossMon MonID="58" LvHpMatchUser="5" Hp="0" Lv="0"/>
@@ -15881,22 +15881,22 @@ eg:
 		</Monsters>
 		<Bosses>
 			<Boss Symbol="1" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="雷伊体力特训">
-				<BossMon MonID="5002" Hp="800" Lv="50" NewSeIdxs="108 79 58"/>
+				<BossMon MonID="15002" Hp="800" Lv="50" NewSeIdxs="108 79 58"/>
 			</Boss>
 			<Boss Symbol="2" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="雷伊防御特训">
-				<BossMon MonID="5002" Hp="600" Lv="50" NewSeIdxs="9 79 58 71"/>
+				<BossMon MonID="15002" Hp="600" Lv="50" NewSeIdxs="9 79 58 71"/>
 			</Boss>
 			<Boss Symbol="3" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="雷伊特防特训">
-				<BossMon MonID="5002" Hp="600" Lv="50" NewSeIdxs="9 79 58 73"/>
+				<BossMon MonID="15002" Hp="600" Lv="50" NewSeIdxs="9 79 58 73"/>
 			</Boss>
 			<Boss Symbol="4" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="雷伊攻击特训">
-				<BossMon MonID="5002" Hp="500" Lv="50" NewSeIdxs="56 79 58 70"/>
+				<BossMon MonID="15002" Hp="500" Lv="50" NewSeIdxs="56 79 58 70"/>
 			</Boss>
 			<Boss Symbol="5" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="雷伊特攻特训">
-				<BossMon MonID="5002" Hp="500" Lv="50" NewSeIdxs="95 79 58 70"/>
+				<BossMon MonID="15002" Hp="500" Lv="50" NewSeIdxs="95 79 58 70"/>
 			</Boss>
 			<Boss Symbol="6" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="雷伊速度特训">
-				<BossMon MonID="5002" Hp="500" Lv="50" NewSeIdxs="111 79 58 53"/>
+				<BossMon MonID="15002" Hp="500" Lv="50" NewSeIdxs="111 79 58 53"/>
 			</Boss>
 			<Boss Id="6" TaskID="306" AppearTime="0 23" BossVisible="1"  Name="SPT雷伊"
 				BonusProbability="20" BonusTotalProbability="1000" BonusID="5016" ItemBonusOutID="2" SptLevel="1">
@@ -15907,7 +15907,7 @@ eg:
 
 			</Boss>
 			<Boss Symbol="17" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="雷伊技能特训之雷伊幻影">
-				<BossMon MonID="5005" Hp="1200" Lv="100" NewSeIdxs="149 95 1 2 58 156"/>
+				<BossMon MonID="15005" Hp="1200" Lv="100" NewSeIdxs="149 95 1 2 58 156"/>
 			</Boss>
 			<Boss TaskID="306" AppearTime="0 23" BossVisible="1"  Name="SPT雷伊 许愿树弱化"
 				BonusProbability="20" BonusTotalProbability="1000" BonusID="5016" ItemBonusOutID="2">
@@ -16056,7 +16056,7 @@ eg:
                 <BossMon MonID="1912" Hp="6000" Lv="100"/>
             </Boss>
             <Boss Id="14" AppearTime="0 23" BossVisible="0" Name="雷神雷伊">
-                <BossMon MonID="5005" Hp="4000" Lv="80"/>
+                <BossMon MonID="15005" Hp="4000" Lv="80"/>
             </Boss>
             <Boss Id="15" AppearTime="0 23" BossVisible="0" Name="巴洛卡娜">
                 <BossMon MonID="1912" Hp="4000" Lv="80"/>
@@ -16068,7 +16068,7 @@ eg:
                 <BossMon MonID="1912" Hp="2000" Lv="70"/>
             </Boss>
             <Boss Id="18" AppearTime="0 23" BossVisible="0" Name="雷神雷伊">
-                <BossMon MonID="5005" Hp="800" Lv="60"/>
+                <BossMon MonID="15005" Hp="800" Lv="60"/>
             </Boss>
             <Boss Id="19" AppearTime="0 23" BossVisible="0" Name="巴洛卡娜">
                 <BossMon MonID="1912" Hp="800" Lv="60"/>
@@ -16080,7 +16080,7 @@ eg:
                 <BossMon MonID="1912" Hp="150" Lv="40"/>
             </Boss>
             <Boss Id="22" AppearTime="0 23" BossVisible="0" Name="雷神雷伊">
-                <BossMon MonID="5005" Hp="80" Lv="20"/>
+                <BossMon MonID="15005" Hp="80" Lv="20"/>
             </Boss>
             <Boss Id="23" AppearTime="0 23" BossVisible="0" Name="巴洛卡娜">
                 <BossMon MonID="1912" Hp="80" Lv="20"/>
@@ -16208,7 +16208,7 @@ eg:
 	<Map ID="3026" Name="海盗要塞废墟" InitX="847" InitY="120" ShapeshiftMons="1" >
 		<Bosses>
 			<Boss AppearTime="0 23" BossVisible="0" Name="">
-				<BossMon MonID="5003" Hp="10000" Lv="80" NewSeIdxs="85"/>
+				<BossMon MonID="15003" Hp="10000" Lv="80" NewSeIdxs="85"/>
 			</Boss>
 			<Boss AppearTime="0 23" BossVisible="0" Name="奇洛">
 				<BossMon MonID="56" LvHpMatchUser="2" Hp="0" Lv="0"/>
@@ -16465,13 +16465,13 @@ eg:
 		</Monsters>
 		<Bosses>
 			<Boss AppearTime="19 21" Name="20110106小魔王" >
-				<BossMon MonID="5006" Hp="70" Lv="30" />
+				<BossMon MonID="15006" Hp="70" Lv="30" />
 			</Boss>
 			<Boss BossCatchable="1" AppearTime="19 21" Name="20110106莎莉" >
 				<BossMon MonID="604" Hp="42" Lv="16" />
 			</Boss>
 			<Boss AppearTime="0 23" Name="咤克斯的分身" >
-				<BossMon MonID="5009" Hp="2000" Lv="105" NewSeIdxs="176 1 2 104 79 58 86"/>
+				<BossMon MonID="15009" Hp="2000" Lv="105" NewSeIdxs="176 1 2 104 79 58 86"/>
 			</Boss>
 			<Boss BossCatchable="1" AppearTime="0 23" Name="20110310稀有精灵" >
 				<BossMon MonID="701" Hp="48" Lv="16" />
@@ -18489,6 +18489,6 @@ eg:
 		<DefaultMap ID="3" RandMaps="1224" Desc="新手登录场景"/>
 	</DefaultMaps>
 	<VersionNumber>
-		<Version ID="20251114" Desc="每次发版需同步更新版本号"/>
+		<Version ID="20251121" Desc="每次发版需同步更新版本号"/>
 	</VersionNumber>
 </Maps>
