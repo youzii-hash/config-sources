@@ -145,6 +145,7 @@ activity id: 961 & 963:因为是复用,只要截止时间正确即可, 若延长
 		<TimeLimit TID="9" Type="1" StartTime="2025-08-29 10:00:00" EndTime="2025-09-26 10:00:00"/>
 		<TimeLimit TID="10" Type="1" StartTime="2025-09-26 10:00:00" EndTime="2025-10-31 10:00:00"/>
 		<TimeLimit TID="11" Type="1" StartTime="2025-10-31 10:00:00" EndTime="2025-11-28 10:00:00"/>
+		<TimeLimit TID="12" Type="1" StartTime="2025-11-28 10:00:00" EndTime="2025-12-26 10:00:00"/>
         
     </Activity>
 	

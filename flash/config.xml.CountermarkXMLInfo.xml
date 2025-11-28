@@ -3712,7 +3712,8 @@
 	<MintMark ID="42609" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="5 2 0 2 3 9" MaxAttriValue="52 25 0 25 38 90" MonsterID="4830" Level="100" Max="99" Des="鲨鱼辣椒超级形态专属全能刻印" EffectDes="攻击5/52,防御2/25,特防2/25,速度3/38,体力9/90"/>
 	<MintMark ID="42610" Type="3" Rare="4" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 4 4 4 2 8" MaxAttriValue="0 40 40 40 20 80" Level="100" Max="99" Des="永噤之夜" EffectDes="防御4/40,特攻4/40,特防4/40,速度2/20,体力8/80" Rarity="3" MintmarkClass="65" ExtraAttriValue="0 5 5 5 0 5"/>
     <MintMark ID="42611" Type="3" Rare="4" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="4 3 0 3 3 13" MaxAttriValue="40 30 0 30 30 130" MintmarkClass="11" Level="100" Max="99" Des="航行6000天" EffectDes="攻击4/40,防御3/30,特防3/30,速度3/30,体力13/130"/>
-	
+    <MintMark ID="42612" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 3 4 3 3 8" MaxAttriValue="0 30 46 30 37 87" MonsterID="4840" Level="100" Max="99" Des="霞冠·星礼专属全能刻印" EffectDes="防御3/30,特攻5/46,特防3/30,速度3/37,体力8/87"/>
+
 
 	<!--刻印铸造碎片-->
 	<MintMark ID="50001" Type="4" SalePrice="10000" Quality="0" MintmarkLevel="0" BaseHoleNum="0" BaseAttriValue="0 0 0 0 0 0" MaxAttriValue="0 0 0 0 0 0" Level="100" MonsterID="" Max="99" Des="小碎片"/>

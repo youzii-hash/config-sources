@@ -213,11 +213,11 @@ Desc:    刻印信息  tips的获得途径文字
 
 <Hotspot><!-- 本周热点 -->
 <item intro="全新精灵上线，快来看看吧！">
-      <place type= "0" ID="4838" ImageID= "4838" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <!-- <place type= "0" ID="4835" ImageID= "4835" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
-	  <!-- <place type= "0" ID="4836" ImageID= "4836" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
-	  <!-- <place type= "0" ID="4837" ImageID= "4837" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
-	  <!-- <place type= "0" ID="4829" ImageID= "4829" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
+      <place type= "0" ID="4839" ImageID= "4839" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4840" ImageID= "4840" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4841" ImageID= "4841" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4842" ImageID= "4842" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4843" ImageID= "4843" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
 	  <!-- <place type= "0" ID="4806" ImageID= "4806" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4804" ImageID= "4804" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4805" ImageID= "4805" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -255,9 +255,9 @@ Desc:    刻印信息  tips的获得途径文字
       <place type= "0" ID="4641" ImageID= "4641" Label= "0"  Redirect="map|module" Go="1679;app/ValleyExpeditionHatchMainPanel"/>-->
 
 
-      <place type= "1" ID="776" monID="3941" ImageID= "1400776" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-      <place type= "1" ID="777" monID="3983" ImageID= "1400777" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-	  <!-- <place type= "1" ID="768" monID="4829" ImageID= "1400768" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
+      <place type= "1" ID="778" monID="3896" ImageID= "1400778" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "1" ID="779" monID="4840" ImageID= "1400779" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "1" ID="780" monID="4840" ImageID= "1400780" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
 	  <!-- <place type= "1" ID="769" monID="4822" ImageID= "1400769" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
       <!-- <place type= "1" ID="749" monID="4805" ImageID= "1400749" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="750" monID="4069" ImageID= "1400750" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -5136,5 +5136,10 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4836" DefName="观星派派" Type="水 机械" Height="128" Weight="35" Features="由派特博士改款的观星派派，加装了针对宇宙探索工作的功能与装备。" Redirect="module" Go="app/FinalActivityPanel" Target="114012"/>
 	<Monster ID="4837" DefName="保姆派派" Type="草 机械" Height="119" Weight="33" Features="由派特博士改款的保姆派派，加装了针对苏摩保育工作的功能与装备。" Redirect="module" Go="app/FinalActivityPanel" Target="114004"/>
 	<Monster ID="4838" DefName="笛科特" Type="机械 超能" Height="146" Weight="74" Features="由派特博士为庆典专门改款的音乐解码机械精灵，可爱的造型下似乎还隐藏着不为人知的额外功能。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/342"/>
+	<Monster ID="4839" DefName="麦迪亚" Type="地面" Height="186" Weight="84" Features="纳提姆的守备团的十夫长。虽然看起来不易亲近，但那只是他过于认真罢了。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/343"/>
+	<Monster ID="4840" DefName="霞冠·星礼" Type="自然 战斗" Height="146" Weight="74" Features="星礼的全新形态，外表可爱但实力不容小觑。" Redirect="module" Go="app/FinalActivityPanel" Target="114018"/>
+	<Monster ID="4841" DefName="凯莫兽" Type="远古 地面" Height="178" Weight="105" Features="维茨洛奇坦星的本地生物，是当地人民生活中的好帮手。" Redirect="module" Go="app/FinalActivityPanel" Target="400015"/>
+	<Monster ID="4842" DefName="雷漠克怪" Type="地面 暗影" Height="180" Weight="107" Features="凯莫兽月化后的形态，在被能量侵蚀后已经失去了理智。" Redirect="module" Go="app/FinalActivityPanel" Target="400015"/>
+	<Monster ID="4843" DefName="辛德拉缇" Type="次元 龙" Height="167" Weight="47" Features="2025包月精灵，赫星童话之《灰姑娘与悖论》，故事讲述的是来自另一个时空的灰姑娘辛德拉缇，与时空悖论造就的恶龙王子战斗的故事。" Redirect="module" Go="app/FinalActivityPanel" Target="120000"/>
 
 </root>

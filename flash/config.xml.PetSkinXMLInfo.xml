@@ -2597,6 +2597,21 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>	
 
+    <Skin ID="778" MonID="3896" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="寒焰之骸·伽玛星魂" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114020">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>
+	
+	<Skin ID="779" MonID="4840" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="游明星空·星礼" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114018">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>
+	
+	<Skin ID="780" MonID="4840" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="碧意良宵·星礼" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114018">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>
+
+
+
+
     <!-- <Skin ID="000" MonID="000" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="复制模版"> -->
 		<!-- <SkinKind ID="1" Type="2" LifeTime="0"/> -->
 	<!-- </Skin>	 -->

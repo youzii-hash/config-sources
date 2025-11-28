@@ -15441,16 +15441,21 @@ eg:
     <Map ID="2161" Name="传送舱" InitX="400" InitY="360">
 
 	</Map>	
+    <Map ID="2162" Name="纳提姆村" InitX="400" InitY="360">
+        <Monsters>
+			<Monster ID="4841" Lv="17 17"/>
+			<Monster ID="4841" Lv="17 17"/>
+			<Monster ID="4841" Lv="17 17"/>
+			<Monster ID="4841" Lv="17 17"/>
+			<Monster ID="4841" Lv="17 17"/>
+			<Monster ID="4842" Lv="77 77"/>
+			<Monster ID="4842" Lv="77 77"/>
+			<Monster ID="4842" Lv="77 77"/>
+			<Monster ID="4842" Lv="77 77"/>
+		</Monsters>
+	</Map>	
 	
 
-
-
-
-	
-	
-	
-	
-	
 
 	<!--以下号段为H5场景专用) -->
 					<!--<星球配置为搬迁自页游内容，h5中仅用到了<Monster>字段，<Bosses>字段并无此内容，为防止引起其它问题，故暂时保留" />-->
@@ -18489,6 +18494,6 @@ eg:
 		<DefaultMap ID="3" RandMaps="1224" Desc="新手登录场景"/>
 	</DefaultMaps>
 	<VersionNumber>
-		<Version ID="20251121" Desc="每次发版需同步更新版本号"/>
+		<Version ID="20251128" Desc="每次发版需同步更新版本号"/>
 	</VersionNumber>
 </Maps>

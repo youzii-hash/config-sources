@@ -46,6 +46,7 @@ Efftype：控制类异常状态配0 弱化类异常状态配1
 		<SubEffect ID="36" Name="沸涌" Efftype="1"/>
 		<SubEffect ID="37" Name="砥砺" Efftype="2"/>
 		<SubEffect ID="38" Name="星赎" Efftype="2"/>
+		<SubEffect ID="39" Name="神游" Efftype="0"/>
 
 	</BattleEffect>
 	<BattleEffect Type="1" Name="战斗能力变化">

@@ -1795,6 +1795,8 @@
 				<Rule ID="22" Threshold="22" AchievementPoint="10" icon="1" achName="海洋之友" proicon="1423" SpeNameBonus="549" title="海洋之友" Desc="与海洋星居民建立友谊" titleColor="0xFFFFFF" />
 				<Rule ID="23" Threshold="23" AchievementPoint="10" icon="1" achName="星海引航员" proicon="1450" SpeNameBonus="561" title="星海引航员" Desc="参与活动【星海归航】获取" titleColor="0xFFFFFF" />
 				<Rule ID="24" Threshold="24" AchievementPoint="10" icon="1" achName="六千昼夜" proicon="1451" SpeNameBonus="562" title="六千昼夜" Desc="参与活动【航行橱窗】获取" titleColor="0xFFFFFF" />
+				<Rule ID="25" Threshold="25" AchievementPoint="5" icon="1" achName="寂夜曼陀罗" proicon="1453"  Desc="屡次见证于寂夜绽放的诅咒之花" titleColor="0xFFFFFF" />
+				<Rule ID="26" Threshold="26" AchievementPoint="5" icon="1" achName="破月勇者" proicon="1454" Desc="成为雷漠克怪杀手" titleColor="0xFFFFFF" />
 				
 				
 			</Branch>

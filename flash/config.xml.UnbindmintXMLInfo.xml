@@ -187,7 +187,28 @@
 		
 		
 		
-		
+	    <!--以下为英雄之证系列	-->
+        <Unbindmintinfo MintmarkID="41724" NeedConsumeID="1724169" NeedConsumeNum="168" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="42167" NeedConsumeID="1724169" NeedConsumeNum="248" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="42174" NeedConsumeID="1724169" NeedConsumeNum="248" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="42187" NeedConsumeID="1724169" NeedConsumeNum="248" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="42209" NeedConsumeID="1724169" NeedConsumeNum="248" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="42252" NeedConsumeID="1724169" NeedConsumeNum="168" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="42253" NeedConsumeID="1724169" NeedConsumeNum="168" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="42254" NeedConsumeID="1724169" NeedConsumeNum="168" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="42255" NeedConsumeID="1724169" NeedConsumeNum="168" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="42290" NeedConsumeID="1724169" NeedConsumeNum="248" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="42408" NeedConsumeID="1724169" NeedConsumeNum="248" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="42500" NeedConsumeID="1724169" NeedConsumeNum="168" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="42532" NeedConsumeID="1724169" NeedConsumeNum="168" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="42561" NeedConsumeID="1724169" NeedConsumeNum="248" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="42594" NeedConsumeID="1724169" NeedConsumeNum="168" NewMsglogId=""/>
+
+
+
+
+
+
 		
 	    <!--以下为英雄圣殿系列	-->
         <Unbindmintinfo MintmarkID="40856" NeedConsumeID="1724169" NeedConsumeNum="268" NewMsglogId="2201210214"/>
@@ -195,6 +216,21 @@
         <Unbindmintinfo MintmarkID="40858" NeedConsumeID="1724169" NeedConsumeNum="268" NewMsglogId="2201210216"/>
         <Unbindmintinfo MintmarkID="41473" NeedConsumeID="1724169" NeedConsumeNum="268" NewMsglogId="2201210217"/>
         <Unbindmintinfo MintmarkID="41727" NeedConsumeID="1724169" NeedConsumeNum="268" NewMsglogId="2201210218"/>
+        <Unbindmintinfo MintmarkID="41881" NeedConsumeID="1724169" NeedConsumeNum="108" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="41882" NeedConsumeID="1724169" NeedConsumeNum="118" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="41883" NeedConsumeID="1724169" NeedConsumeNum="138" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="41884" NeedConsumeID="1724169" NeedConsumeNum="158" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="41885" NeedConsumeID="1724169" NeedConsumeNum="108" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="41886" NeedConsumeID="1724169" NeedConsumeNum="118" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="41887" NeedConsumeID="1724169" NeedConsumeNum="138" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="41888" NeedConsumeID="1724169" NeedConsumeNum="158" NewMsglogId=""/>
+
+		
+		
+		
+		
+		
+		
 		
 	    <!--以下为莱达神谕系列-->
         <Unbindmintinfo MintmarkID="41828" NeedConsumeID="1724169" NeedConsumeNum="268" NewMsglogId="2201210219"/>

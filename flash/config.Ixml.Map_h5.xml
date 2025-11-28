@@ -704,6 +704,8 @@
 	<item id="2159" name="火山星地核" Ename="Destination Reached" pic="1343" sound="BGM_487" GroupID="20104" PrimaryScene="0" PlayerXYZ="216,206" WildBossNum="3" WildBossPoint="539,235_559,453_941,480_1200,551_714,704_537,1005_246,1225_1019,1089_791,036" WildBossLifeTime="8" WildBossID="4824" WildBossWeight="1" MapRatio="1" />
 	<item id="2160" name="苏摩保育区" Ename="Destination Reached" pic="2160" sound="BGM_6000day" MapRatio="1" />
 	<item id="2161" name="传送舱" notes="6000天庆典版本" Ename="Welcome back" pic="2161" sound="BGM_151A" GroupID="10103" PlayerXYZ="467,404" NPCID="301" NPCScale="1" NPCXYZ="350,430" enterMap="1" MapRatio="1" />
+	<item id="2162" name="纳提姆村" Ename="Destination Reached" pic="2162" sound="Auro_BGM_01" GroupID="22001" GroupName="维茨洛奇坦星" PlayerXYZ="467,404" WildBossNum="2" WildBossPoint="574,284_571,281_305,356_179,368_393,395_124,439_249,448_495,476_755,280" WildBossLifeTime="8" WildBossID="4840" WildBossWeight="1" enterMap="1" MapRatio="1" />
+	<item id="2163" name="空场景占位" Ename="Destination Reached" pic="2163" />
 	<item id="0" name="&lt;map" notes="id=" Ename="1" pic="0" sound="x=" GroupID="0" GroupName="304" PrimaryScene="0" PlayerXYZ="1" DeviceID="sound=" DeviceScale="BGM_397" DeviceXYZ="npc=" NPCID="114" NPCScale="&gt;" NPCXYZ="--&gt;" />
 	<item id="0" name="id=" notes="1" Ename="name=" pic="0" sound="467" GroupID="404" GroupName="super=" PrimaryScene="1" PlayerXYZ="sound=" DeviceID="BGM_397" DeviceScale="npc=" DeviceXYZ="114" NPCID="scenenpc=" NPCScale="136|0|280|460|20180213|20180219" NPCXYZ="&gt;" WildBossNum="0" />
 	<item id="0" name="id=" notes="2" Ename="name=" pic="0" sound="775" GroupID="250" GroupName="sound=" PrimaryScene="0" PlayerXYZ="&gt;" WildBossNum="0" />
