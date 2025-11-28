@@ -396,12 +396,12 @@
           4809,
           4817,
           4832,
-          0
+          4843
         ],
-        "cur_month": 11,
+        "cur_month": 12,
         "cur_year": 2025,
         "id": 10,
-        "monster_id": 4832
+        "monster_id": 4843
       }
     ]
   }

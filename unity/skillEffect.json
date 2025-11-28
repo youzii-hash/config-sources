@@ -32264,6 +32264,21 @@
       "tagBboss": 1,
       "tagC": "",
       "tagCboss": 1
+    },
+    {
+      "Bosseffective": 1,
+      "argsNum": 3,
+      "formattingAdjustment": "{0}%令自身{1}\r\n-->触发成功自身免疫下{2}次受到的攻击",
+      "id": 2371,
+      "ifTextItalic": "触发成功",
+      "info": "{0}%令自身{1}，触发成功自身免疫下{2}次受到的攻击",
+      "isif": 1,
+      "tagA": "施加异常",
+      "tagAboss": 1,
+      "tagB": "效果无效",
+      "tagBboss": 1,
+      "tagC": "",
+      "tagCboss": 1
     }
   ]
 }
