@@ -12758,6 +12758,24 @@
         "pet_id": 4844
       },
       {
+        "move_id": 38180,
+        "move_name1": "分智",
+        "move_name2": "离魂决",
+        "pet_id": 4845
+      },
+      {
+        "move_id": 38183,
+        "move_name1": "碎冰",
+        "move_name2": "冲击波",
+        "pet_id": 4846
+      },
+      {
+        "move_id": 29214,
+        "move_name1": "合奏",
+        "move_name2": "常昼大诰",
+        "pet_id": 4999
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",

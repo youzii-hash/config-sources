@@ -32553,6 +32553,26 @@
       "icon": [],
       "icontype": 0,
       "id": 4493
+    },
+    {
+      "desc": "下{0}回合自身攻击技能命中后吸取对手最大体力的1/3",
+      "tag": "吸血",
+      "desc_tag": "roundnext",
+      "icon": [
+        7
+      ],
+      "icontype": 0,
+      "id": 4494
+    },
+    {
+      "desc": "下{0}回合自身属性技能命中后吸取对手所有技能1点pp",
+      "tag": "吸取PP",
+      "desc_tag": "roundnext",
+      "icon": [
+        9
+      ],
+      "icontype": 0,
+      "id": 4495
     }
   ]
 }

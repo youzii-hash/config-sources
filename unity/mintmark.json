@@ -106344,7 +106344,7 @@
         "max": 99,
         "mintmark_class": 66,
         "quality": 5,
-        "rare": 4,
+        "rare": 5,
         "rarity": 3,
         "total_consume": 0,
         "type": 3
@@ -106385,7 +106385,7 @@
         "max": 99,
         "mintmark_class": 66,
         "quality": 5,
-        "rare": 4,
+        "rare": 5,
         "rarity": 3,
         "total_consume": 0,
         "type": 3
@@ -106426,7 +106426,7 @@
         "max": 99,
         "mintmark_class": 66,
         "quality": 5,
-        "rare": 4,
+        "rare": 5,
         "rarity": 3,
         "total_consume": 0,
         "type": 3
@@ -106467,7 +106467,7 @@
         "max": 99,
         "mintmark_class": 66,
         "quality": 5,
-        "rare": 4,
+        "rare": 5,
         "rarity": 3,
         "total_consume": 0,
         "type": 3
@@ -106508,7 +106508,7 @@
         "max": 99,
         "mintmark_class": 66,
         "quality": 5,
-        "rare": 4,
+        "rare": 5,
         "rarity": 3,
         "total_consume": 0,
         "type": 3
@@ -106549,7 +106549,7 @@
         "max": 99,
         "mintmark_class": 66,
         "quality": 5,
-        "rare": 4,
+        "rare": 5,
         "rarity": 3,
         "total_consume": 0,
         "type": 3
@@ -107072,7 +107072,7 @@
         "max": 99,
         "mintmark_class": 66,
         "quality": 5,
-        "rare": 4,
+        "rare": 5,
         "rarity": 3,
         "total_consume": 0,
         "type": 3
@@ -107113,7 +107113,7 @@
         "max": 99,
         "mintmark_class": 66,
         "quality": 5,
-        "rare": 4,
+        "rare": 5,
         "rarity": 3,
         "total_consume": 0,
         "type": 3
@@ -107154,7 +107154,7 @@
         "max": 99,
         "mintmark_class": 66,
         "quality": 5,
-        "rare": 4,
+        "rare": 5,
         "rarity": 3,
         "total_consume": 0,
         "type": 3
@@ -107195,7 +107195,7 @@
         "max": 99,
         "mintmark_class": 66,
         "quality": 5,
-        "rare": 4,
+        "rare": 5,
         "rarity": 3,
         "total_consume": 0,
         "type": 3
@@ -107236,7 +107236,7 @@
         "max": 99,
         "mintmark_class": 66,
         "quality": 5,
-        "rare": 4,
+        "rare": 5,
         "rarity": 3,
         "total_consume": 0,
         "type": 3
@@ -107277,7 +107277,7 @@
         "max": 99,
         "mintmark_class": 66,
         "quality": 5,
-        "rare": 4,
+        "rare": 5,
         "rarity": 3,
         "total_consume": 0,
         "type": 3
@@ -119886,7 +119886,7 @@
         "max": 99,
         "mintmark_class": 15,
         "quality": 5,
-        "rare": 4,
+        "rare": 5,
         "rarity": 0,
         "total_consume": 0,
         "type": 3
@@ -119920,7 +119920,7 @@
         "max": 99,
         "mintmark_class": 15,
         "quality": 5,
-        "rare": 4,
+        "rare": 5,
         "rarity": 0,
         "total_consume": 0,
         "type": 3
@@ -121188,6 +121188,74 @@
         "mintmark_class": 0,
         "quality": 5,
         "rare": 1,
+        "rarity": 0,
+        "total_consume": 0,
+        "type": 3
+      },
+      {
+        "des": "赫尔卡余晖",
+        "effect_des": "体力9/90,防御2/25,特攻6/65,特防2/25,速度3/30",
+        "arg": [],
+        "base_attri_value": [
+          0,
+          2,
+          6,
+          2,
+          3,
+          9
+        ],
+        "extra_attri_value": [],
+        "max_attri_value": [
+          0,
+          25,
+          65,
+          25,
+          30,
+          90
+        ],
+        "monster_id": [],
+        "move_id": [],
+        "grade": 5,
+        "id": 42613,
+        "level": 100,
+        "max": 99,
+        "mintmark_class": 61,
+        "quality": 5,
+        "rare": 3,
+        "rarity": 0,
+        "total_consume": 0,
+        "type": 3
+      },
+      {
+        "des": "好朋友徽章",
+        "effect_des": "体力9/93,防御2/27,特攻4/46,特防2/27,速度2/27",
+        "arg": [],
+        "base_attri_value": [
+          0,
+          2,
+          4,
+          2,
+          2,
+          9
+        ],
+        "extra_attri_value": [],
+        "max_attri_value": [
+          0,
+          27,
+          46,
+          27,
+          27,
+          93
+        ],
+        "monster_id": [],
+        "move_id": [],
+        "grade": 5,
+        "id": 42614,
+        "level": 100,
+        "max": 99,
+        "mintmark_class": 32,
+        "quality": 5,
+        "rare": 3,
         "rarity": 0,
         "total_consume": 0,
         "type": 3

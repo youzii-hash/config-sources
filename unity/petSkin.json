@@ -4011,7 +4011,7 @@
           }
         ],
         "id": 223,
-        "jump_target": 0,
+        "jump_target": 136500,
         "mon_id": 3437,
         "type": 3
       },
@@ -5757,7 +5757,7 @@
           }
         ],
         "id": 321,
-        "jump_target": 0,
+        "jump_target": 136500,
         "mon_id": 3437,
         "type": 3
       },
@@ -5883,7 +5883,7 @@
           }
         ],
         "id": 328,
-        "jump_target": 0,
+        "jump_target": 136200,
         "mon_id": 3963,
         "type": 3
       },
@@ -7089,7 +7089,7 @@
           }
         ],
         "id": 395,
-        "jump_target": 0,
+        "jump_target": 136200,
         "mon_id": 3022,
         "type": 3
       },
@@ -8007,7 +8007,7 @@
           }
         ],
         "id": 446,
-        "jump_target": 0,
+        "jump_target": 136200,
         "mon_id": 4004,
         "type": 3
       },
@@ -8673,7 +8673,7 @@
           }
         ],
         "id": 483,
-        "jump_target": 0,
+        "jump_target": 136200,
         "mon_id": 3661,
         "type": 3
       },
@@ -8709,7 +8709,7 @@
           }
         ],
         "id": 485,
-        "jump_target": 0,
+        "jump_target": 136200,
         "mon_id": 4387,
         "type": 3
       },
@@ -8871,7 +8871,7 @@
           }
         ],
         "id": 494,
-        "jump_target": 0,
+        "jump_target": 136200,
         "mon_id": 4395,
         "type": 3
       },
@@ -10365,7 +10365,7 @@
           }
         ],
         "id": 577,
-        "jump_target": 0,
+        "jump_target": 136500,
         "mon_id": 3045,
         "type": 3
       },
@@ -11715,7 +11715,7 @@
           }
         ],
         "id": 652,
-        "jump_target": 0,
+        "jump_target": 136200,
         "mon_id": 4187,
         "type": 3
       },
@@ -12345,7 +12345,7 @@
           }
         ],
         "id": 687,
-        "jump_target": 0,
+        "jump_target": 136200,
         "mon_id": 4714,
         "type": 3
       },
@@ -12363,7 +12363,7 @@
           }
         ],
         "id": 688,
-        "jump_target": 0,
+        "jump_target": 136200,
         "mon_id": 3830,
         "type": 3
       },
@@ -12705,7 +12705,7 @@
           }
         ],
         "id": 707,
-        "jump_target": 0,
+        "jump_target": 136200,
         "mon_id": 3507,
         "type": 3
       },
@@ -12921,7 +12921,7 @@
           }
         ],
         "id": 719,
-        "jump_target": 0,
+        "jump_target": 136500,
         "mon_id": 4647,
         "type": 3
       },
@@ -12939,7 +12939,7 @@
           }
         ],
         "id": 720,
-        "jump_target": 0,
+        "jump_target": 136500,
         "mon_id": 4648,
         "type": 3
       },
@@ -12957,7 +12957,7 @@
           }
         ],
         "id": 721,
-        "jump_target": 0,
+        "jump_target": 136500,
         "mon_id": 4649,
         "type": 3
       },
