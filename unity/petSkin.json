@@ -13988,8 +13988,8 @@
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "游明星空·星礼",
         "skin_kind": [
           {
@@ -14001,13 +14001,13 @@
           }
         ],
         "id": 779,
-        "jump_target": 114018,
+        "jump_target": 0,
         "mon_id": 4840,
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "碧意良宵·星礼",
         "skin_kind": [
           {
@@ -14019,13 +14019,13 @@
           }
         ],
         "id": 780,
-        "jump_target": 114018,
+        "jump_target": 0,
         "mon_id": 4840,
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "星空解析·明德里奇",
         "skin_kind": [
           {
@@ -14037,7 +14037,7 @@
           }
         ],
         "id": 781,
-        "jump_target": 2,
+        "jump_target": 0,
         "mon_id": 4542,
         "type": 3
       },
@@ -14058,6 +14058,60 @@
         "jump_target": 114021,
         "mon_id": 4706,
         "type": 2
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "冬日礼颂·枫眠",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 783,
+        "jump_target": 114026,
+        "mon_id": 3954,
+        "type": 8
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "雪境牧礼使·玛洛迪斯",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 784,
+        "jump_target": 114026,
+        "mon_id": 3739,
+        "type": 8
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "萨瑞卡",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 785,
+        "jump_target": 2,
+        "mon_id": 3637,
+        "type": 0
       }
     ]
   }
