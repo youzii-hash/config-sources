@@ -2613,6 +2613,15 @@
     <!-- 以下部分为20250704Flash处理 -->
 	<item name="【20250704】皮肤商城"  moduleName="app/SkinShopMainPanel" tip="活动已结束"/>
 
+    <!-- 以下部分为20251226Flash处理 -->
+	<item name="【20251226】午后的悠闲时光"  moduleName="app/YearPet2025SkinPanel" tip="活动已结束"/>
+	<item name="【20251226】2025年费主面板"  moduleName="app/Yearvip2025MainPanel" tip="活动已结束"/>
+	<item name="【20251226】2025年费精灵面板"  moduleName="app/Yearvip2025GetRewardPanel" tip="活动已结束"/>
+	<item name="【20251226】2025年费预约面板"  moduleName="app/Yearvip2025YuyueGiftPanel" tip="活动已结束"/>
+	<item name="【20251226】2025年费收藏面板"  moduleName="app/Yearvip2025LimitedcollectionPanel" tip="活动已结束"/>
+	<item name="【20251226】2025年费月费面板"  moduleName="app/VipMouthPet2025Panel" tip="活动已结束"/>
+	<item name="【20251226】2025年费一键极品面板"  moduleName="app/Yearvip2025JpPanel" tip="活动已结束"/>
+	<item name="【20251226】2025年费特权面板"  moduleName="app/Yearvip2025ExclusivecapacityPanel" tip="活动已结束"/>
 
 
 
