@@ -12812,6 +12812,12 @@
         "pet_id": 4854
       },
       {
+        "move_id": 38218,
+        "move_name1": "碎甲",
+        "move_name2": "重锤",
+        "pet_id": 4857
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",

@@ -17809,6 +17809,20 @@
                     "id": 27,
                     "proicon": 1455,
                     "spe_name_bonus": 564
+                  },
+                  {
+                    "abtext": "",
+                    "ach_name": "除虫高手",
+                    "desc": "在犹尔尼斯星探索中获得的实力证明",
+                    "threshold": "28",
+                    "title": "除虫高手",
+                    "title_color": "0xFFFFFF",
+                    "ability_title": 0,
+                    "achievement_point": 10,
+                    "hide": 0,
+                    "id": 28,
+                    "proicon": 1459,
+                    "spe_name_bonus": 567
                   }
                 ],
                 "id": 166,

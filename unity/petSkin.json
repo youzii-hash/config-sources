@@ -13898,8 +13898,8 @@
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "世界之脉·圣灵谱尼",
         "skin_kind": [
           {
@@ -13911,14 +13911,14 @@
           }
         ],
         "id": 774,
-        "jump_target": 114006,
+        "jump_target": 0,
         "mon_id": 5000,
         "type": 19
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
-        "name": "潮汐之主·星光鲁斯王",
+        "go": "",
+        "go_type": "",
+        "name": "潮汐之主·鲁斯王",
         "skin_kind": [
           {
             "id": 1,
@@ -13929,7 +13929,7 @@
           }
         ],
         "id": 775,
-        "jump_target": 114006,
+        "jump_target": 0,
         "mon_id": 4648,
         "type": 19
       },
@@ -14042,8 +14042,8 @@
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "拂晓·奥菲利娅",
         "skin_kind": [
           {
@@ -14055,13 +14055,13 @@
           }
         ],
         "id": 782,
-        "jump_target": 114021,
+        "jump_target": 0,
         "mon_id": 4706,
         "type": 2
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "冬日礼颂·枫眠",
         "skin_kind": [
           {
@@ -14073,13 +14073,13 @@
           }
         ],
         "id": 783,
-        "jump_target": 114026,
+        "jump_target": 0,
         "mon_id": 3954,
         "type": 8
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "雪境牧礼使·玛洛迪斯",
         "skin_kind": [
           {
@@ -14091,13 +14091,13 @@
           }
         ],
         "id": 784,
-        "jump_target": 114026,
+        "jump_target": 0,
         "mon_id": 3739,
         "type": 8
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "萨瑞卡",
         "skin_kind": [
           {
@@ -14109,7 +14109,7 @@
           }
         ],
         "id": 785,
-        "jump_target": 2,
+        "jump_target": 0,
         "mon_id": 3637,
         "type": 0
       },
@@ -14129,6 +14129,42 @@
         "id": 786,
         "jump_target": 114028,
         "mon_id": 4853,
+        "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "渊墟帝龙",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 787,
+        "jump_target": 114031,
+        "mon_id": 4797,
+        "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "雪域祖灵·银月狼王",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 788,
+        "jump_target": 2,
+        "mon_id": 3171,
         "type": 3
       }
     ]

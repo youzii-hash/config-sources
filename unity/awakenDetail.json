@@ -815,6 +815,88 @@
         "id": 20,
         "new_eff_id": 2447,
         "old_eff_id": 1778
+      },
+      {
+        "advances": {
+          "adv_effect": {
+            "des": "",
+            "id": 1685
+          },
+          "ex_move": {
+            "extra_moves": 36406
+          },
+          "race": {
+            "new_race": [
+              175,
+              145,
+              111,
+              70,
+              111,
+              138
+            ],
+            "old_race": [
+              155,
+              132,
+              108,
+              70,
+              107,
+              128
+            ]
+          },
+          "sp_move": {
+            "sp_moves": [
+              36404,
+              28217,
+              36405
+            ]
+          },
+          "adv_type": 0,
+          "monster_id": 3506
+        },
+        "id": 21,
+        "new_eff_id": 2066,
+        "old_eff_id": 1103
+      },
+      {
+        "advances": {
+          "adv_effect": {
+            "des": "",
+            "id": 1863
+          },
+          "ex_move": {
+            "extra_moves": 37464
+          },
+          "race": {
+            "new_race": [
+              167,
+              144,
+              111,
+              70,
+              111,
+              137
+            ],
+            "old_race": [
+              165,
+              135,
+              109,
+              70,
+              111,
+              130
+            ]
+          },
+          "sp_move": {
+            "sp_moves": [
+              37461,
+              37462,
+              37463
+            ]
+          },
+          "adv_type": 0,
+          "monster_id": 3623
+        },
+        "id": 22,
+        "new_eff_id": 2257,
+        "old_eff_id": 1201
       }
     ]
   }
