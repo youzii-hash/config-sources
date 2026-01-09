@@ -2581,11 +2581,11 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="10"/>
 	</Skin>	
 
-    <Skin ID="774" MonID="5000" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="19" Name="世界之脉·圣灵谱尼" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114006">
+    <Skin ID="774" MonID="5000" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="19" Name="世界之脉·圣灵谱尼" >
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="13"/>
 	</Skin>	
 
-    <Skin ID="775" MonID="4648" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="19" Name="潮汐之主·星光鲁斯王" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114006">
+    <Skin ID="775" MonID="4648" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="19" Name="潮汐之主·鲁斯王" >
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="13"/>
 	</Skin>	
 
@@ -2613,19 +2613,19 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	
-	<Skin ID="782" MonID="4706" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="2" Name="拂晓·奥菲利娅" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114021">
+	<Skin ID="782" MonID="4706" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="2" Name="拂晓·奥菲利娅" >
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
-	<Skin ID="783" MonID="3954" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="8" Name="冬日礼颂·枫眠" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114026">
+	<Skin ID="783" MonID="3954" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="8" Name="冬日礼颂·枫眠" >
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="11"/>
 	</Skin>
 
-	<Skin ID="784" MonID="3739" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="8" Name="雪境牧礼使·玛洛迪斯" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114026">
+	<Skin ID="784" MonID="3739" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="8" Name="雪境牧礼使·玛洛迪斯" >
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="11"/>
 	</Skin>
 	
-	<Skin ID="785" MonID="3637" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Name="萨瑞卡" Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">
+	<Skin ID="785" MonID="3637" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Name="萨瑞卡" >
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>	
 	
@@ -2633,7 +2633,13 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
+	<Skin ID="787" MonID="4797" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="渊墟帝龙" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114031">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>
 
+	<Skin ID="788" MonID="3171" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="雪域祖灵·银月狼王" Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>
 
     <!-- <Skin ID="000" MonID="000" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="复制模版"> -->
 		<!-- <SkinKind ID="1" Type="2" LifeTime="0"/> -->

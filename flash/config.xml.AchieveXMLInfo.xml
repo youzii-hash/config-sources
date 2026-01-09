@@ -1800,7 +1800,7 @@
 				<Rule ID="25" Threshold="25" AchievementPoint="5" icon="1" achName="寂夜曼陀罗" proicon="1453"  Desc="屡次见证于寂夜绽放的诅咒之花" titleColor="0xFFFFFF" />
 				<Rule ID="26" Threshold="26" AchievementPoint="5" icon="1" achName="破月勇者" proicon="1454" Desc="成为雷漠克怪杀手" titleColor="0xFFFFFF" />
 				<Rule ID="27" Threshold="27" AchievementPoint="10" icon="1" achName="敌月神" proicon="1455" SpeNameBonus="564" title="敌月神" Desc="成为2026年费VIP" titleColor="0xFFFFFF" AbilityTitle="1" abtext="攻击+30、特攻+30、防御+30、特防+30、体力+50"/>
-				
+				<Rule ID="28" Threshold="28" AchievementPoint="10" icon="1" achName="除虫高手" proicon="1459" SpeNameBonus="567" title="除虫高手" Desc="在犹尔尼斯星探索中获得的实力证明" titleColor="0xFFFFFF"/>
 			</Branch>
 
 			<Branch ID="171" Type="0" Desc="系列皮肤收集成就" >
