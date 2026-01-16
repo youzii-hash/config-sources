@@ -12818,6 +12818,30 @@
         "pet_id": 4857
       },
       {
+        "move_id": 38224,
+        "move_name1": "狂乱",
+        "move_name2": "夺魂袭",
+        "pet_id": 4860
+      },
+      {
+        "move_id": 29242,
+        "move_name1": "混色神",
+        "move_name2": "虚之彩",
+        "pet_id": 4861
+      },
+      {
+        "move_id": 38231,
+        "move_name1": "纷争",
+        "move_name2": "寒夜岁律",
+        "pet_id": 4862
+      },
+      {
+        "move_id": 38234,
+        "move_name1": "暗",
+        "move_name2": "贯日解天",
+        "pet_id": 3875
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",
