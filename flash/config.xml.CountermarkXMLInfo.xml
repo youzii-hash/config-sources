@@ -1144,7 +1144,7 @@
 	<MintMark ID="40029" Type="3" Rare="1" Quality="5" MintmarkLevel="3" Grade="5" BaseHoleNum="1" BaseAttriValue="5 5 3 0 2 14" MaxAttriValue="27 23 14 0 10 70" Level="100" Max="99" Des="神耀·灭天" EffectDes="体力+70,特攻+14,攻击+27,防御+23,速度+10" Rarity="3" MintmarkClass="4"/>
 	<MintMark ID="40030" Type="3" Rare="1" Quality="5" MintmarkLevel="3" Grade="5" BaseHoleNum="1" BaseAttriValue="5 4 3 0 4 12" MaxAttriValue="23 18 14 0 18 60" Level="100" Max="99" Des="神耀·战天" EffectDes="体力+60,特攻+14,攻击+23,防御+18,速度+18" Rarity="3" MintmarkClass="4"/>
 	<MintMark ID="40031" Type="3" Rare="1" Quality="5" MintmarkLevel="3" Grade="5" BaseHoleNum="1" BaseAttriValue="4 6 0 3 3 10" MaxAttriValue="18 32 0 14 15 50" Level="100" Max="99" Des="神耀·擎天" EffectDes="体力+50,特防+14,攻击+18,防御+32,速度+15" Rarity="3" MintmarkClass="4"/>
-	<MintMark ID="40032" Type="3" Rare="1" Quality="5" MintmarkLevel="3" Grade="5" BaseHoleNum="1" BaseAttriValue="6 5 0 3 3 8" MaxAttriValue="32 27 0 14 13 40" Level="100" Max="99" Des="神耀·破天" EffectDes="体力+40,特防+14,攻击+32,防御+27,速度+13" Rarity="3" MintmarkClass="4"/>
+	<MintMark ID="40032" Type="3" Rare="1" Quality="5" MintmarkLevel="3" Grade="5" BaseHoleNum="1" BaseAttriValue="6 5 0 3 3 8" MaxAttriValue="32 27 0 14 13 40" Level="100" Max="99" Des="神耀·破天" Hide="0" Connect="0" EffectDes="体力+40,特防+14,攻击+32,防御+27,速度+13" Rarity="3" MintmarkClass="4"/>
 	<MintMark ID="40033" Type="3" Rare="1" Quality="5" MintmarkLevel="3" Grade="5" BaseHoleNum="1" BaseAttriValue="5 5 5 5 0 10" MaxAttriValue="23 23 23 23 0 50" MonsterID="2148" Level="100" Max="99" Des="凯迪专属全能刻印" EffectDes="体力+50,特攻+23,特防+23,攻击+23,防御+23" Rarity="3"/>
 	<MintMark ID="40034" Type="3" Rare="1" Quality="3" MintmarkLevel="4" Grade="5" BaseHoleNum="1" BaseAttriValue="3 0 0 0 2 6" MaxAttriValue="25 0 0 0 17 55" MonsterID="1804" Level="100" Max="99" Des="坎贝尔专属全能刻印" EffectDes="体力+55,攻击+25,速度+17" Rarity="3"/>
 	<MintMark ID="40035" Type="3" Rare="1" Quality="3" MintmarkLevel="4" Grade="5" BaseHoleNum="1" BaseAttriValue="3 0 0 0 2 6" MaxAttriValue="25 0 0 0 18 55" MonsterID="1447" Level="100" Max="99" Des="金翅托鲁克专属全能刻印" EffectDes="体力+55,攻击+25,速度+18" Rarity="3"/>
@@ -3716,6 +3716,8 @@
     <MintMark ID="42613" Type="3" Rare="3" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 2 6 2 3 9" MaxAttriValue="0 25 65 25 30 90" Level="100" Max="99" MintmarkClass="61" Des="赫尔卡余晖" EffectDes="体力9/90,防御2/25,特攻6/65,特防2/25,速度3/30"/>
     <MintMark ID="42614" Type="3" Rare="3" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 2 4 2 2 9" MaxAttriValue="0 27 46 27 27 93" Level="100" Max="99" MintmarkClass="32" Des="好朋友徽章" EffectDes="体力9/93,防御2/27,特攻4/46,特防2/27,速度2/27"/>
 	<MintMark ID="42615" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 2 5 2 4 9" MaxAttriValue="0 25 55 25 40 90" MonsterID="4853" Level="100" Max="99" Des="梅赫维特专属全能刻印" EffectDes="防御2/25,特攻5/55,特防2/25,速度4/40,体力9/90"/>
+    <MintMark ID="42618" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 3 4 3 4 8" MaxAttriValue="0 32 42 32 40 84" MonsterID="4865" Level="100" Max="99" Des="超维·瑞泽专属全能刻印" EffectDes="防御3/32,特攻4/42,特防3/32,速度4/40,体力8/84"/>
+
 
 	<!--刻印铸造碎片-->
 	<MintMark ID="50001" Type="4" SalePrice="10000" Quality="0" MintmarkLevel="0" BaseHoleNum="0" BaseAttriValue="0 0 0 0 0 0" MaxAttriValue="0 0 0 0 0 0" Level="100" MonsterID="" Max="99" Des="小碎片"/>

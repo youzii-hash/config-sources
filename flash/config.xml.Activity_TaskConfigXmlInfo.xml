@@ -227,4 +227,11 @@
 	<item id="355" activityid="19" activityname="0116裂隙微光" describe="累计参与游戏3天（至少通关第一层）" value="3" time="0" timelimit="1" timestart="1768528800" timeend="1769133600" rewardinfo="1_2500003_2" />
 	<item id="356" activityid="19" activityname="0116裂隙微光" describe="累计参与游戏4天（至少通关第一层）" value="4" time="0" timelimit="1" timestart="1768528800" timeend="1769133600" rewardinfo="1_1706926_5" />
 	<item id="357" activityid="19" activityname="0116裂隙微光" describe="累计参与游戏5天（至少通关第一层）" value="5" time="0" timelimit="1" timestart="1768528800" timeend="1769133600" rewardinfo="1_2500005_20" />
+	<item id="358" activityid="20" activityname="0123洞窟穿梭" describe="累计游玩3次" value="3" time="0" timelimit="1" timestart="1769133600" timeend="1769738400" rewardinfo="1_2500004_1;1_300063_1" userinfo="125777" userbitbuf2="125778_1" />
+	<item id="359" activityid="20" activityname="0123洞窟穿梭" describe="累计游玩6次" value="6" time="0" timelimit="1" timestart="1769133600" timeend="1769738400" rewardinfo="1_2500004_1;1_300063_1" userinfo="125777" userbitbuf2="125778_2" />
+	<item id="360" activityid="20" activityname="0123洞窟穿梭" describe="累计游玩9次" value="9" time="0" timelimit="1" timestart="1769133600" timeend="1769738400" rewardinfo="1_2500004_2;1_300063_2" userinfo="125777" userbitbuf2="125778_3" />
+	<item id="361" activityid="20" activityname="0123洞窟穿梭" describe="累计游玩12次" value="12" time="0" timelimit="1" timestart="1769133600" timeend="1769738400" rewardinfo="1_300066_1" userinfo="125777" userbitbuf2="125778_4" />
+	<item id="362" activityid="20" activityname="0123洞窟穿梭" describe="累计游玩15次" value="15" time="0" timelimit="1" timestart="1769133600" timeend="1769738400" rewardinfo="1_2500005_3" userinfo="125777" userbitbuf2="125778_5" />
+	<item id="363" activityid="20" activityname="0123洞窟穿梭" describe="累计游玩18次" value="18" time="0" timelimit="1" timestart="1769133600" timeend="1769738400" rewardinfo="1_2500005_3" userinfo="125777" userbitbuf2="125778_6" />
+	<item id="364" activityid="20" activityname="0123洞窟穿梭" describe="累计游玩21次" value="21" time="0" timelimit="1" timestart="1769133600" timeend="1769738400" rewardinfo="1_2500005_4" userinfo="125777" userbitbuf2="125778_7" />
 </root>

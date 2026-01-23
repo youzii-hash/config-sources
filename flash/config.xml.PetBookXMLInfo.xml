@@ -213,9 +213,9 @@ Desc:    刻印信息  tips的获得途径文字
 
 <Hotspot><!-- 本周热点 -->
 <item intro="全新精灵上线，快来看看吧！">
-      <place type= "0" ID="4860" ImageID= "4860" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4861" ImageID= "4861" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4862" ImageID= "4862" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "0" ID="4863" ImageID= "4863" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4864" ImageID= "4864" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4865" ImageID= "4865" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
 	  <!-- <place type= "0" ID="4853" ImageID= "4853" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4843" ImageID= "4843" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4806" ImageID= "4806" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -255,9 +255,9 @@ Desc:    刻印信息  tips的获得途径文字
       <place type= "0" ID="4641" ImageID= "4641" Label= "0"  Redirect="map|module" Go="1679;app/ValleyExpeditionHatchMainPanel"/>-->
 
 
-      <place type= "1" ID="789" monID="4861" ImageID= "1400789" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-      <place type= "1" ID="790" monID="4376" ImageID= "1400790" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "1" ID="791" monID="4510" ImageID= "1400791" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "1" ID="792" monID="4661" ImageID= "1400792" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "1" ID="793" monID="4726" ImageID= "1400793" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+	  <!-- <place type= "1" ID="791" monID="4510" ImageID= "1400791" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="769" monID="4822" ImageID= "1400769" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
       <!-- <place type= "1" ID="749" monID="4805" ImageID= "1400749" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="750" monID="4069" ImageID= "1400750" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -5160,5 +5160,8 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4860" DefName="希尔瑟拉" Type="远古 邪灵" Height="165" Weight="43" Features="希尔瑟拉是一位勇敢的侦察战士，她秘密潜伏在虫族之中，将收集到的情报传递回后方，用另一种方式帮助大家对抗敌人。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/827"/>
 	<Monster ID="4861" DefName="涂蝶" Type="神秘 超能" Height="169" Weight="49" Features="雨巷中偶然的擦肩，她看见了“色彩”。再后来，庸人无法理解她对纯黑的狂热，也无法察觉他们眼中的漆黑，却在她眼中斑斓。" Redirect="module" Go="app/FinalActivityPanel" Target="200000"/>
 	<Monster ID="4862" DefName="纷争之薇" Type="冰" Height="156" Weight="38" Features="在犹尔尼斯星再度现身的神秘幽灵，相比此前，她似乎长得更成熟了一些。但同样再次朝小梅发出了警告……" Redirect="module" Go="app/FinalActivityPanel" Target="170000"/>
+	<Monster ID="4863" DefName="艾莉安娜" Type="虫" Height="156" Weight="38" Features="艾莉安娜降生于犹尔尼斯星的虫族，成为被大家寄予厚望的“继承人”。在与赛尔一同经历冒险之后，她决定换一种方式带领大家走向崭新的未来。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/836"/>
+	<Monster ID="4864" DefName="格拉西恩" Type="冰 龙" Height="176" Weight="72" Features="一位行走四方维护正义的神秘骑士，身上的特征表明了他与众不同的种族身份。" Redirect="module" Go="app/FinalActivityPanel" Target="113026"/>
+	<Monster ID="4865" DefName="超维·瑞泽" Type="次元 战斗" Height="190" Weight="92" Features="瑞泽的超进化形态，如今的他对次元和空间的掌握得到了进一步的突破！" Redirect="module" Go="app/FinalActivityPanel" Target="114033"/>
 
 </root>
