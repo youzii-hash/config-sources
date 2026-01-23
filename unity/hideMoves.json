@@ -12801,8 +12801,8 @@
       },
       {
         "move_id": 38202,
-        "move_name1": "梦续",
-        "move_name2": "涟光",
+        "move_name1": "萌芽",
+        "move_name2": "晨曦圣祈",
         "pet_id": 4852
       },
       {
@@ -12840,6 +12840,30 @@
         "move_name1": "暗",
         "move_name2": "贯日解天",
         "pet_id": 3875
+      },
+      {
+        "move_id": 38240,
+        "move_name1": "万籁归寂",
+        "move_name2": "",
+        "pet_id": 4863
+      },
+      {
+        "move_id": 38243,
+        "move_name1": "穿冰",
+        "move_name2": "破寒刺",
+        "pet_id": 4864
+      },
+      {
+        "move_id": 38246,
+        "move_name1": "刹那天迁",
+        "move_name2": "",
+        "pet_id": 4865
+      },
+      {
+        "move_id": 38249,
+        "move_name1": "王",
+        "move_name2": "天衍星霜",
+        "pet_id": 4125
       },
       {
         "move_id": 31143,
