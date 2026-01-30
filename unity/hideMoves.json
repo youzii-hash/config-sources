@@ -12866,6 +12866,30 @@
         "pet_id": 4125
       },
       {
+        "move_id": 38252,
+        "move_name1": "理",
+        "move_name2": "严弧屈光",
+        "pet_id": 4866
+      },
+      {
+        "move_id": 38255,
+        "move_name1": "陨",
+        "move_name2": "英灵黄昏",
+        "pet_id": 4867
+      },
+      {
+        "move_id": 38258,
+        "move_name1": "灼炎",
+        "move_name2": "毁罚",
+        "pet_id": 4868
+      },
+      {
+        "move_id": 38261,
+        "move_name1": "螟息",
+        "move_name2": "万籁归寂",
+        "pet_id": 4863
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",

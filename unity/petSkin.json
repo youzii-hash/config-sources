@@ -13736,8 +13736,8 @@
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "极夜暮歌·黑沃德",
         "skin_kind": [
           {
@@ -13749,7 +13749,7 @@
           }
         ],
         "id": 765,
-        "jump_target": 204000,
+        "jump_target": 0,
         "mon_id": 4454,
         "type": 15
       },
@@ -14132,8 +14132,8 @@
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "渊墟帝龙",
         "skin_kind": [
           {
@@ -14145,13 +14145,13 @@
           }
         ],
         "id": 787,
-        "jump_target": 114031,
+        "jump_target": 0,
         "mon_id": 4797,
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "雪域祖灵·银月狼王",
         "skin_kind": [
           {
@@ -14163,7 +14163,7 @@
           }
         ],
         "id": 788,
-        "jump_target": 2,
+        "jump_target": 0,
         "mon_id": 3171,
         "type": 3
       },
@@ -14222,20 +14222,20 @@
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "心魔载道·无为觉者",
         "skin_kind": [
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 5,
             "type": 2,
             "year": 0
           }
         ],
         "id": 792,
-        "jump_target": 114034,
+        "jump_target": 0,
         "mon_id": 4661,
         "type": 18
       },
@@ -14256,6 +14256,42 @@
         "jump_target": 2,
         "mon_id": 4726,
         "type": 0
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "温暖回想·艾莉安娜",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 794,
+        "jump_target": 114038,
+        "mon_id": 4863,
+        "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "群虫俯首·埃斯宾诺",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 795,
+        "jump_target": 114037,
+        "mon_id": 4866,
+        "type": 3
       }
     ]
   }
