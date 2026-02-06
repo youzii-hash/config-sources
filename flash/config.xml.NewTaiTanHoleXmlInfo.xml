@@ -101,6 +101,7 @@
 	<Show id="7" randomcnt="2" rewardid="65"/>
 	<Show id="8" randomcnt="2" rewardid="66"/>
 	<Show id="9" randomcnt="2" rewardid="67"/>
+	<Show id="10" randomcnt="1" rewardid="68"/>
 </map>
 
 <!-- 
@@ -184,6 +185,7 @@ realcnt：输出数量
 	<reward id="65" type="1" realid="1800103" realcnt="2"/>
 	<reward id="66" type="1" realid="1800113" realcnt="2"/>
 	<reward id="67" type="1" realid="1800123" realcnt="2"/>
+	<reward id="68" type="1" realid="1727738" realcnt="10"/>
 </rewards>
 
 </root>

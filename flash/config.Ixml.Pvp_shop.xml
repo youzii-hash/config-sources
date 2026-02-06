@@ -44,4 +44,5 @@
 	<item id="43" type="2" producttype="5" commodity="1_1301031_1;1_1301032_1;1_1301033_1;1_1301034_1" petinfo="0_0_0_0" consumeitemid="1717452" price="1500" limit="6" quantity="1" userinfo="124741" stat="2401050541" sort="1" suit="446" />
 	<item id="44" type="3" producttype="6" petinfo="4861_6348_29242_0" consumeitemid="1727695" price="1" limit="6" quantity="1" userinfo="124701" stat="0" sort="1" />
 	<item id="45" type="3" producttype="4" commodity="6_789_1" petinfo="0_0_0_0" consumeitemid="1727695" price="1" limit="6" quantity="1" userinfo="124702" stat="0" sort="1" />
+	<item id="46" type="2" producttype="1" commodity="1_1727739_50" petinfo="0_0_0_0" consumeitemid="1717452" price="50" limit="3" quantity="1" userinfo="20541" stat="0" sort="1" />
 </root>

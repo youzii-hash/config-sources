@@ -368,6 +368,15 @@
 	</Menu>
 	
 	<Shop name="商店"  num="1">
+	    <MintMark ID="42046" Des="穷奇之邪" Level="5" puton="1" maxNum="1" price="700" exchangeId="14686"/>
+		<MintMark ID="42047" Des="穷奇之魅" Level="5" puton="1" maxNum="1" price="700" exchangeId="14687"/>
+		<MintMark ID="42048" Des="梼杌之狂" Level="5" puton="1" maxNum="1" price="700" exchangeId="14688"/>
+		<MintMark ID="42049" Des="梼杌之傲" Level="5" puton="1" maxNum="1" price="700" exchangeId="14689"/>
+		<MintMark ID="42050" Des="饕餮之吞" Level="5" puton="1" maxNum="1" price="700" exchangeId="14690"/>
+		<MintMark ID="42051" Des="饕餮之噬" Level="5" puton="1" maxNum="1" price="700" exchangeId="14691"/>
+		<MintMark ID="42052" Des="混沌之隐" Level="5" puton="1" maxNum="1" price="700" exchangeId="14692"/>
+		<MintMark ID="42053" Des="混沌之匿" Level="5" puton="1" maxNum="1" price="700" exchangeId="14693"/>
+		
 		<MintMark ID="41286" Des="九天之疾" Level="5" puton="1" maxNum="2" price="500" exchangeId="13260"/>
 		<MintMark ID="41287" Des="九天之速" Level="5" puton="1" maxNum="2" price="500" exchangeId="13261"/>
 		<MintMark ID="41288" Des="九曲之刃" Level="5" puton="1" maxNum="2" price="500" exchangeId="13262"/>
@@ -403,15 +412,7 @@
 		<MintMark ID="41041" Des="混沌初拥" Level="4" puton="1" maxNum="2" price="300" exchangeId="14258"/>
 		<MintMark ID="41042" Des="魔君圣威" Level="4" puton="1" maxNum="2" price="300" exchangeId="14259"/>
 		<MintMark ID="41751" Des="魔君遗怨" Level="4" puton="1" maxNum="2" price="300" exchangeId="14260"/>
-		
-		<MintMark ID="42046" Des="穷奇之邪" Level="5" puton="2" maxNum="1" price="500" exchangeId="13268"/>
-		<MintMark ID="42047" Des="穷奇之魅" Level="5" puton="2" maxNum="1" price="500" exchangeId="13269"/>
-		<MintMark ID="42048" Des="梼杌之狂" Level="5" puton="2" maxNum="1" price="500" exchangeId="13270"/>
-		<MintMark ID="42049" Des="梼杌之傲" Level="5" puton="2" maxNum="1" price="500" exchangeId="13271"/>
-		<MintMark ID="42050" Des="饕餮之吞" Level="5" puton="2" maxNum="1" price="500" exchangeId="13272"/>
-		<MintMark ID="42051" Des="饕餮之噬" Level="5" puton="2" maxNum="1" price="500" exchangeId="13273"/>
-		<MintMark ID="42052" Des="混沌之隐" Level="5" puton="2" maxNum="1" price="500" exchangeId="13274"/>
-		<MintMark ID="42053" Des="混沌之匿" Level="5" puton="2" maxNum="1" price="500" exchangeId="13275"/>
+
 		
 	</Shop>
 </Mintmarks>

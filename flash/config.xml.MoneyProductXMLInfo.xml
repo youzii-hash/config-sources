@@ -67,6 +67,7 @@
 	<item name="购买闪耀徽章进阶版" productID="200063" itemID="1727499" price="30" vip="1" gold="1" type="-1"/> 
 	<item name="星钻" productID="200064" itemID="1727555" price="0.1" vip="1" gold="1" type="-1"/> 
 	<item name="限时秒杀辰坤星魂史诗皮肤" productID="200065" itemID="1727569" price="8.8" vip="1" gold="1" type="-1"/> 	
+	<item name="种植新春招财树" productID="200066" itemID="1727757" price="10" vip="1" gold="1" type="-1"/> 		
 
 	<!-- <item name="废弃" productID="200061" itemID="" price="1" vip="1" gold="1" type="-1"/>	-->
 	<!-- <item name="废弃" productID="200062" itemID="" price="1" vip="1" gold="1" type="-1"/>	-->

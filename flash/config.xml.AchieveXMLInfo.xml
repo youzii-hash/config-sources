@@ -269,6 +269,7 @@
 				<Rule ID="2" Threshold="2" AchievementPoint="10" icon="1" achName="瓏域探险家" proicon="1295" SpeNameBonus="459" title="瓏域探险家" Desc="完成【沧吟星海】系列剧情" titleColor="0xFFFFFF"/>	
 				<Rule ID="3" Threshold="3" AchievementPoint="10" icon="1" achName="绝境的试炼者" proicon="1296" SpeNameBonus="460" title="绝境的试炼者" Desc="完成【绝境的试炼者】系列剧情" titleColor="0xFFFFFF"/>	
 				<Rule ID="4" Threshold="4" AchievementPoint="10" icon="1" achName="命定时刻" proicon="1301" SpeNameBonus="465" title="命定时刻" Desc="完成【命定时刻】系列剧情" titleColor="0xFFFFFF"/>
+
 			</Branch>
 
 
@@ -298,6 +299,7 @@
 				<Rule ID="20" Threshold="20" AchievementPoint="10" icon="1" achName="俯瞰星穹" proicon="1440" SpeNameBonus="556" title="俯瞰星穹" Desc="完成支线【俯仰星尘】获得" titleColor="0xFFFFFF"/>
 				<Rule ID="21" Threshold="21" AchievementPoint="10" icon="1" achName="卡布达与朋友" proicon="1447" SpeNameBonus="558" title="卡布达与朋友" Desc="完成剧情【和平星争霸赛】获得" titleColor="0xFFFFFF" />
 				<Rule ID="22" Threshold="22" AchievementPoint="10" icon="1" achName="天人之证" proicon="1456" SpeNameBonus="565" title="天人之证" Desc="完成主线【行于沙海】获得" titleColor="0xFFFFFF" />
+				<Rule ID="23" Threshold="23" AchievementPoint="10" icon="1" achName="白皑迷踪" proicon="1466" SpeNameBonus="570" title="白皑迷踪" Desc="完成主线【白皑迷踪】获得" titleColor="0xFFFFFF" />
 			</Branch>
 
 		</Branches>
@@ -884,6 +886,7 @@
 				<Rule ID="3" Threshold="3" AchievementPoint="10" icon="1" achName="征服者塞拉赫" proicon="1457" SpeNameBonus="566" title="征服者塞拉赫" Desc="通关S-图特摩斯【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
 				<Rule ID="4" Threshold="4" AchievementPoint="10" icon="1" achName="群虫荣光" proicon="1464" SpeNameBonus="568" title="群虫荣光" Desc="通关S-艾莉安娜【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
 				<Rule ID="5" Threshold="5" AchievementPoint="10" icon="1" achName="理性之化身" proicon="1465" SpeNameBonus="569" title="理性之化身" Desc="通关S-埃斯宾诺【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
+				<Rule ID="6" Threshold="6" AchievementPoint="10" icon="1" achName="感性之化身" proicon="1467" SpeNameBonus="571" title="感性之化身" Desc="通关S-康迪亚克【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
 			</Branch>
 			
 			<Branch ID="169" Desc="高难挑战系列" > 
@@ -1832,6 +1835,7 @@
 				<Rule ID="10" Threshold="10" AchievementPoint="10" achName="2025巅峰时装收集" Desc="达成2025巅峰圣战专属精灵皮肤收集进度" proicon="1437" icon="1" />
 				<Rule ID="11" Threshold="11" AchievementPoint="10" achName="新时代" Desc="达成时代轨迹系列皮肤收集进度" proicon="1441" icon="1" />
 			    <Rule ID="12" Threshold="12" AchievementPoint="10" achName="圣诞礼遇" Desc="达成圣诞礼遇系列皮肤收集进度" proicon="1458" icon="1" />
+				<Rule ID="13" Threshold="13" AchievementPoint="10" achName="2026巅峰时装收集" Desc="达成2026巅峰圣战专属精灵皮肤收集进度" proicon="1468" icon="1" />
 
 			</Branch>
 
