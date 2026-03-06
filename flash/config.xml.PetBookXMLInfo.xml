@@ -213,9 +213,9 @@ Desc:    刻印信息  tips的获得途径文字
 
 <Hotspot><!-- 本周热点 -->
 <item intro="全新精灵上线，快来看看吧！">
-      <place type= "0" ID="4876" ImageID= "4876" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4877" ImageID= "4877" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4878" ImageID= "4878" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "0" ID="4879" ImageID= "4879" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4880" ImageID= "4880" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4881" ImageID= "4881" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
 	  <!-- <place type= "0" ID="4869" ImageID= "4869" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4843" ImageID= "4843" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4806" ImageID= "4806" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -255,8 +255,8 @@ Desc:    刻印信息  tips的获得途径文字
       <place type= "0" ID="4641" ImageID= "4641" Label= "0"  Redirect="map|module" Go="1679;app/ValleyExpeditionHatchMainPanel"/>-->
 
 
-      <place type= "1" ID="806" monID="4125" ImageID= "1400806" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-      <place type= "1" ID="807" monID="4875" ImageID= "1400807" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "1" ID="808" monID="4622" ImageID= "1400808" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "1" ID="809" monID="4816" ImageID= "1400809" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
 	  <!-- <place type= "1" ID="791" monID="4510" ImageID= "1400791" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="769" monID="4822" ImageID= "1400769" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
       <!-- <place type= "1" ID="749" monID="4805" ImageID= "1400749" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -3724,7 +3724,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="3414" DefName="混沌魔君索伦森" Type="混沌" Height="400" Weight="200" Features="索伦森的完全体形态，索伦森终于褪去了圣灵的外壳，得到了最原始的混沌力量！" mapID="1241" Label="1,2,6" jumptarget="92" Target="150044"/>
 	<Monster ID="3415" DefName="邪骨龙女" Type="邪灵 龙" Height="170" Weight="70" Features="邪灵和龙女的结合，创造出了邪骨龙女这一邪恶的精灵，拥有着超乎想象的实力！" mapID="1"/>
 	<Monster ID="3416" DefName="辛西娅" Type="龙" Height="150" Weight="100" Features="暗月星的抵抗者，美丽的幼龙，小小的身体却蕴含着龙族神秘的传承！" mapID="1243"/>
-	<Monster ID="3417" DefName="埃兰" Type="远古 战斗" Height="180" Weight="80" Features="混沌领军者，掌握着强大的战斗力量，拥有超凡的战斗技巧！" mapID="1"/>
+	<Monster ID="3417" DefName="埃兰" Type="远古 战斗" Height="180" Weight="80" Features="混沌领军者，掌握着强大的战斗力量，拥有超凡的战斗技巧！" mapID="1" Target="150107"/>
 	<Monster ID="3418" DefName="大乔" Type="超能 水" Height="170" Weight="70" Features="三国有名的美女小乔的姐姐，同样拥有倾国倾城的容颜，拥有操控水的能力！" mapID="103"/>
 	<Monster ID="3419" DefName="蛮荒之息" Type="远古 地面" Height="193" Weight="86" Features="来自蛮荒时期的远古巨兽，却同时拥有着过人的头脑，手中的双刃挥舞起来威力无比！" mapID="1"/>
 	<Monster ID="3420" DefName="梦·赫尔墨斯" Type="超能" Height="180" Weight="80" Features="梦境之神的完全体形态，在索伦森掌握真正混沌力量后，梦境之神赫尔墨斯的能力也得到了提升！" mapID="1239" jumptarget="119" Target="150045"/>
@@ -3749,7 +3749,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="3440" DefName="露薇" Type="战斗" Height="170" Weight="70" Features="持有强力枪械的科技少女，使用枪械战斗的力量已登峰造极！"/>
 	<Monster ID="3441" DefName="魔血剑姬" Type="暗影 战斗" Height="170" Weight="70" Features="拥有魔族血脉的剑姬，体力的狂热之血拥有着狂暴的力量！" mapID="1"/>
 	<Monster ID="5000" DefName="圣灵谱尼" Type="神灵" Height="500" Weight="0" Features="圣灵的主宰。圣灵的终极强化，神灵之力的持有者。不朽的传奇。唯一的神灵！" mapID="1248" Label="1,7" jumptarget="87" Target="150049"/>
-	<Monster ID="3442" DefName="混沌埃兰" Type="混沌 战斗" Height="183" Weight="81" Features="埃兰的超进化形态，得到了魔君混沌之力的领军者，混沌教派的强大统帅，号称混沌之手！" mapID="1241"/>
+	<Monster ID="3442" DefName="混沌埃兰" Type="混沌 战斗" Height="183" Weight="81" Features="埃兰的超进化形态，得到了魔君混沌之力的领军者，混沌教派的强大统帅，号称混沌之手！" mapID="1241" Target="150106"/>
 	<Monster ID="3443" DefName="万神寂灭·克罗诺斯" Type="暗影 神秘" Height="198" Weight="88" Features="克罗诺斯的完全体形态，他的力量是诸神的黄昏，是终末的降临！" mapID="103"/>
 	<Monster ID="3444" DefName="伊芙莉" Type="自然" Height="170" Weight="55" Features="伊诺美的妹妹，在姐姐加入混沌教派后，留在星域之间继续进行抵抗！" mapID="1249"/>
 	<Monster ID="3445" DefName="赫里斯" Type="光" Height="180" Weight="80" Features="星域之中的抵抗者，险些堕入混沌教派，后幡然醒悟，投入了圣光联军！" mapID="1251"/>
@@ -4213,7 +4213,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="3909" DefName="魉" Type="草 战斗" Height="200" Weight="100" Features="魑魅魍魉莫能逢旃，人心不古真假难辨。上古十二荒兽——魉，力拔山河初现人间！" mapID="1390" Target="295004"/>
 	<Monster ID="3910" DefName="欧维恩" Type="电 次元" Height="184" Weight="76" Features="壮志未酬，怎甘平凡！披荆斩棘，如雷奔行！异空之中的怒雷，让敌人为之震颤！" mapID="1390"/>
 	<Monster ID="3911" DefName="追击者M3" Type="机械 次元" Height="150" Weight="50" Features="神秘代码急需破解，传输信息解读信息！赛尔号大电影7专属精灵——追击者M3登场！" mapID="1390"/>
-	<Monster ID="3912" DefName="阿尔法熊" Type="机械" Height="150" Weight="80" Features="电影同款神宠，芯片上搭载着最先进的战斗系统，攻可破防可守，战场中的狂野猛兽！" mapID="11885"/>
+	<Monster ID="3912" DefName="阿尔法熊" Type="机械" Height="150" Weight="80" Features="电影同款神宠，芯片上搭载着最先进的战斗系统，攻可破防可守，战场中的狂野猛兽！" mapID="11885" Target="114051"/>
 	<Monster ID="3913" DefName="变形者C4" Type="机械 邪灵" Height="120" Weight="30" Features="机械秘密已经开启，疯狂探险即刻启程！赛尔号大电影7专属精灵——变形者C4登场！" mapID="1391"/>
 	<Monster ID="3914" DefName="朝颜" Type="圣灵 光" Height="161" Weight="46" Features="全新的巅峰圣战月度精灵——朝颜！柔弱平和的外表下，是最纯粹的圣灵之力！"/>
 	<Monster ID="3915" DefName="辰坤·苍焱" Type="远古 火" Height="140" Weight="45" Features="挽尘星之强者，不忘城的神秘守护。持信念之火，庇佑自己的家园！" mapID="1391" jumptarget="56/3_6" Target="140001"/>
@@ -5176,5 +5176,8 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4876" DefName="方术·悠悠" Type="光" Height="100" Weight="15" Features="受囚牛法术点醒而发生变化的悠悠，不知为何获得了强大的方术能力，且说话也有了几分赤洲人的味道，不仅如此，还受到了大佛妙时天女的庇护。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/850"/>
 	<Monster ID="4877" DefName="锢魂铁犀" Type="机械 草" Height="240" Weight="3000" Features="濒死的犀牛被改造了无坚不摧的兵器，失去对自我控制的它对战队总部发起了进攻！" Redirect="module" Go="app/FinalActivityPanel" Target="113037"/>
 	<Monster ID="4878" DefName="灯珑鱼" Type="光 超能" Height="40" Weight="7" Features="出现在元宵节的神秘精灵，据说答对灯谜最多的赛尔可以吸引它的注意力哟！" Redirect="module" Go="app/FinalActivityPanel" Target="420002"/>
+	<Monster ID="4879" DefName="阿塔塔" Type="光" Height="79" Weight="24" Features="阿塔塔是生活在化乐天林海的小精灵，性格内敛却又直率，拥有虫族基因的它，总是习惯陪伴在伙伴们的左右。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/858"/>
+	<Monster ID="4880" DefName="洛欧蒂" Type="光 战斗" Height="183" Weight="84" Features="2026年包月精灵，万象录之《守卫家园之人》。他在过去是戍守一方的军人，身披荣耀成为仪卫队的一员。他即是那个时代的风貌象征，也是文明弥留之际最后的见证。" Redirect="module" Go="app/FinalActivityPanel" Target="121000"/>
+	<Monster ID="4881" DefName="阿拿拿" Type="地面" Height="62" Weight="19" Features="阿拿拿平时生活在化乐天林海的树洞里，大家都说她性格有点古怪，但不管有什么事都能找她打听，真是个奇怪的小精灵。" Redirect="module" Go="app/FinalActivityPanel" Target="400020"/>
 
 </root>

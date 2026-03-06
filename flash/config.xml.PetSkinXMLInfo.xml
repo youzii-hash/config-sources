@@ -2717,6 +2717,14 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
+	<Skin ID="808" MonID="4622" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="9" Name="风纪监察·希拓" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114053">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>
+
+	<Skin ID="809" MonID="4816" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="9" Name="文墨风吟·伊芙" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114054">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>
+
     <!-- <Skin ID="000" MonID="000" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="复制模版"> -->
 		<!-- <SkinKind ID="1" Type="2" LifeTime="0"/> -->
 	<!-- </Skin>	 -->

@@ -2011,6 +2011,12 @@ eg:
 		</Out>
 	</Bonus>
 	
+	<Bonus ID="2313" NewStatId="" Desc="20260306 三月包月精灵">
+		<Out ID="1" >
+			<Monster ID="4880" ExtraMove="1" NewSeID="6369" Lv="100" Name="洛欧蒂"/>
+		</Out>
+	</Bonus>
+	
 	
 	
 	
