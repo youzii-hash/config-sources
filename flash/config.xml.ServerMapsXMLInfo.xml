@@ -15487,6 +15487,20 @@ eg:
 
 	<Map ID="2168" Name="化乐天林海" InitX="580" InitY="440">
     </Map>
+	
+	<Map ID="2169" Name="自在天飞船" InitX="580" InitY="440">
+	    <Monsters>
+			<Monster ID="4884" Lv="17 17"/>
+			<Monster ID="4884" Lv="17 17"/>
+			<Monster ID="4884" Lv="17 17"/>
+			<Monster ID="4884" Lv="17 17"/>
+			<Monster ID="4884" Lv="17 17"/>
+			<Monster ID="4884" Lv="17 17"/>
+			<Monster ID="4884" Lv="17 17"/>
+			<Monster ID="4884" Lv="17 17"/>
+			<Monster ID="4884" Lv="17 17"/>
+		</Monsters>
+    </Map>
 
 
 	<!--以下号段为H5场景专用) -->
@@ -18499,6 +18513,6 @@ eg:
 		<DefaultMap ID="3" RandMaps="1224" Desc="新手登录场景"/>
 	</DefaultMaps>
 	<VersionNumber>
-		<Version ID="20260306" Desc="每次发版需同步更新版本号"/>
+		<Version ID="20260313" Desc="每次发版需同步更新版本号"/>
 	</VersionNumber>
 </Maps>

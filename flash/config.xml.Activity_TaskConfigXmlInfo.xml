@@ -273,21 +273,27 @@
 	<item id="406" activityid="24" activityname="囚风决" describe="累计参与游戏3天（至少在一局游戏内获取100分）" value="3" time="0" timelimit="1" timestart="1770948000" timeend="1772762400" rewardinfo="4_4873_1" userinfo="140261" userbitbuf="11056" />
 	<item id="407" activityid="24" activityname="囚风决" describe="累计参与游戏4天（至少在一局游戏内获取100分）" value="4" time="0" timelimit="1" timestart="1770948000" timeend="1772762400" rewardinfo="1_300063_2" userinfo="140261" userbitbuf="11057" />
 	<item id="408" activityid="24" activityname="囚风决" describe="累计参与游戏5天（至少在一局游戏内获取100分）" value="5" time="0" timelimit="1" timestart="1770948000" timeend="1772762400" rewardinfo="1_300065_5" userinfo="140261" userbitbuf="11058" />
-	<item id="409" activityid="25" activityname="趣蔚投蓝" describe="累计游玩1天" value="1" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1723117_10" />
-	<item id="410" activityid="25" activityname="趣蔚投蓝" describe="累计游玩2天" value="2" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_2500003_2" />
-	<item id="411" activityid="25" activityname="趣蔚投蓝" describe="累计游玩3天" value="3" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1727738_35" />
-	<item id="412" activityid="25" activityname="趣蔚投蓝" describe="累计游玩4天" value="4" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1727739_40" />
-	<item id="413" activityid="25" activityname="趣蔚投蓝" describe="累计游玩5天" value="5" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1727738_80" />
-	<item id="414" activityid="25" activityname="趣蔚投蓝" describe="单局游戏最高获得30分" value="30" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1727738_15" />
-	<item id="415" activityid="25" activityname="趣蔚投蓝" describe="单局游戏最高获得50分" value="50" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1723117_10" />
-	<item id="416" activityid="25" activityname="趣蔚投蓝" describe="单局游戏最高获得80分" value="80" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1727738_15" />
-	<item id="417" activityid="25" activityname="趣蔚投蓝" describe="单局游戏最高获得100分" value="100" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1727739_20" />
-	<item id="418" activityid="25" activityname="趣蔚投蓝" describe="单局游戏最高获得120分" value="120" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_2500003_20" />
-	<item id="419" activityid="25" activityname="趣蔚投蓝" describe="单局游戏最高获得150分" value="150" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1727738_30" />
-	<item id="420" activityid="25" activityname="趣蔚投蓝" describe="累计游玩4次" value="4" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1727739_20" />
-	<item id="421" activityid="25" activityname="趣蔚投蓝" describe="累计游玩6次" value="6" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1727738_20" />
-	<item id="422" activityid="25" activityname="趣蔚投蓝" describe="累计游玩8次" value="8" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1727738_35" />
-	<item id="423" activityid="25" activityname="趣蔚投蓝" describe="累计游玩10次" value="10" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1727739_40" />
-	<item id="424" activityid="25" activityname="趣蔚投蓝" describe="累计游玩12次" value="12" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1727738_50" />
-	<item id="425" activityid="25" activityname="趣蔚投蓝" describe="累计游玩15次" value="15" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_2500003_3" />
+	<item id="409" activityid="25" activityname="趣蔚投蓝" describe="累计游玩1天" value="1" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1723117_10" userinfo="152034" userbitbuf="9112" />
+	<item id="410" activityid="25" activityname="趣蔚投蓝" describe="累计游玩2天" value="2" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1727739_30" userinfo="152034" userbitbuf="9113" />
+	<item id="411" activityid="25" activityname="趣蔚投蓝" describe="累计游玩3天" value="3" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1727738_55" userinfo="152034" userbitbuf="9114" />
+	<item id="412" activityid="25" activityname="趣蔚投蓝" describe="累计游玩4天" value="4" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1727739_40" userinfo="152034" userbitbuf="9115" />
+	<item id="413" activityid="25" activityname="趣蔚投蓝" describe="累计游玩5天" value="5" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_2500003_2" userinfo="152034" userbitbuf="9116" />
+	<item id="414" activityid="25" activityname="趣蔚投蓝" describe="单局游戏最高获得30分" value="30" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1727738_15" userinfo="152028" userbitbuf="9117" />
+	<item id="415" activityid="25" activityname="趣蔚投蓝" describe="单局游戏最高获得50分" value="50" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1727739_20" userinfo="152028" userbitbuf="9118" />
+	<item id="416" activityid="25" activityname="趣蔚投蓝" describe="单局游戏最高获得80分" value="80" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1727738_20" userinfo="152028" userbitbuf="9119" />
+	<item id="417" activityid="25" activityname="趣蔚投蓝" describe="单局游戏最高获得100分" value="100" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1723117_10" userinfo="152028" userbitbuf="9120" />
+	<item id="418" activityid="25" activityname="趣蔚投蓝" describe="单局游戏最高获得120分" value="120" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_2500003_1" userinfo="152028" userbitbuf="9121" />
+	<item id="419" activityid="25" activityname="趣蔚投蓝" describe="单局游戏最高获得150分" value="150" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1727738_30" userinfo="152028" userbitbuf="9122" />
+	<item id="420" activityid="25" activityname="趣蔚投蓝" describe="累计游玩4次" value="4" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1727739_20" userinfo="152033" userbitbuf="9123" />
+	<item id="421" activityid="25" activityname="趣蔚投蓝" describe="累计游玩6次" value="6" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1727738_30" userinfo="152033" userbitbuf="9124" />
+	<item id="422" activityid="25" activityname="趣蔚投蓝" describe="累计游玩8次" value="8" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1727738_50" userinfo="152033" userbitbuf="9125" />
+	<item id="423" activityid="25" activityname="趣蔚投蓝" describe="累计游玩10次" value="10" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1727739_40" userinfo="152033" userbitbuf="9126" />
+	<item id="424" activityid="25" activityname="趣蔚投蓝" describe="累计游玩12次" value="12" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1727738_70" userinfo="152033" userbitbuf="9127" />
+	<item id="425" activityid="25" activityname="趣蔚投蓝" describe="累计游玩15次" value="15" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_2500003_2" userinfo="152033" userbitbuf="9128" />
+	<item id="426" activityid="26" activityname="薇星起航计划" describe="今日累计完成1个飞船元件修复" value="1" time="1" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_2500005_3" userinfo="207414" userbitbuf2="207417_1" />
+	<item id="427" activityid="26" activityname="薇星起航计划" describe="今日累计完成3个飞船元件修复" value="3" time="1" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1723855_10000" userinfo="207414" userbitbuf2="207417_2" />
+	<item id="428" activityid="26" activityname="薇星起航计划" describe="今日累计完成5个飞船元件修复" value="5" time="1" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_1726992_7" userinfo="207414" userbitbuf2="207417_3" />
+	<item id="429" activityid="26" activityname="薇星起航计划" describe="累计完成5局游戏" value="5" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_2500004_1" userinfo="152031" userbitbuf2="152032_1" />
+	<item id="430" activityid="26" activityname="薇星起航计划" describe="累计完成10局游戏" value="10" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_2500004_2" userinfo="152031" userbitbuf2="152032_2" />
+	<item id="431" activityid="26" activityname="薇星起航计划" describe="累计完成15局游戏" value="15" time="0" timelimit="1" timestart="1773367200" timeend="1773972000" rewardinfo="1_2500004_2" userinfo="152031" userbitbuf2="152032_3" />
 </root>

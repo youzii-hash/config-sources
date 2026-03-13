@@ -2157,7 +2157,7 @@
 	<Effect id="2319" argsNum="2" info="附加自身双防之和{0}%的百分比伤害，对手每有1只留魂之蛊额外附加{1}%，对手未受到百分比伤害时自身获得1层封邪之嶂且每有1层封邪之嶂为对手种下1只留魂之蛊" sp="1" analyze="[sprite name=iconHit]附加自身双防之和{0}%的[color=#52a5f2]百分比伤害[/color]，对手每有1只留魂之蛊额外附加{1}%，对手未受到[color=#52a5f2]百分比伤害[/color]时自身获得1层封邪之嶂且每有1层封邪之嶂为对手种下1只留魂之蛊"/>
 	<Effect id="2320" argsNum="8" info="{0}回合内每回合使用技能令对手{1}，未触发则对手下{7}回合攻击技能无效" param="0,1,1" analyze="[sprite name=iconHit]{0}回合内每回合使用技能令对手{1}，[color=#52a5f2]未触发[/color]则对手下{7}回合攻击技能无效"/>
 	<Effect id="2321" argsNum="2" info="造成的攻击伤害低于{0}则令对手{1}回合内属性技能无效" analyze="[sprite name=iconHit]造成的攻击伤害低于{0}则令对手{1}回合内属性技能无效"/>
-	<Effect id="2322" argsNum="0" info="使用时解除自身所处的异常状态，若自身处于算力限制则本次攻击无法造成伤害" analyze="[sprite name=iconHit]使用时解除自身所处的异常状态，若自身处于[color=#f35555]算力限制[/color]则本次攻击无法造成伤害"/>
+	<Effect id="2322" argsNum="0" info="使用时解除自身所处的异常状态，若自身处于算力限制则本次攻击无法造成伤害" analyze="[sprite name=iconInherent]使用时解除自身所处的异常状态，若自身处于[color=#f35555]算力限制[/color]则本次攻击无法造成伤害"/>
 	<Effect id="2323" argsNum="0" info="获得灼阳之焰" analyze="[sprite name=iconHit]获得[color=#f35555]灼阳之焰[/color]"/>
 	<Effect id="2324" argsNum="2" info="消除对手护盾、护罩，消除成功附加消除量{0}%的百分比伤害，对手每有1个技能PP值不为满效果提升{1}%" analyze="[sprite name=iconHit]消除对手[color=#57c975]护盾[/color]、[color=#57c975]护罩[/color]，消除成功附加消除量{0}%的[color=#52a5f2]百分比伤害[/color]，对手每有1个技能PP值不为满效果提升{1}%"/>
 	<Effect id="2325" argsNum="0" info="己方场下每存活一只浪浪山小妖怪，威力提升50点" analyze="[sprite name=iconHit][color=#52a5f2]己方[/color]场下每存活一只浪浪山小妖怪，[color=#52a5f2]威力[/color]提升50点"/>
