@@ -23700,8 +23700,22 @@
 	<item productID="262316" icon="" itemID="1727902" price="398" type="0" vip="1" productType="-1" malldiscount="0" name="一键获得元素支配·赫斯提亚"></item>
 	<item productID="262317" icon="" itemID="1727903" price="10" type="0" vip="1" productType="-1" malldiscount="0" name="购买游戏次数"></item>
 	<item productID="262318" icon="" itemID="1727904" price="1" type="0" vip="1" productType="-1" malldiscount="0" name="补足所需的星光单价"></item>
-	<item productID="262319" icon="" itemID="1727906" price="10" type="0" vip="1" productType="-1" malldiscount="0" name="0403测试道具"></item>
+	<item productID="262319" icon="" itemID="1727906" price="10" type="0" vip="1" productType="-1" malldiscount="0" name="关卡提前解锁"></item>
 	<item productID="262320" icon="" itemID="1727908" price="25" type="0" vip="1" productType="-1" malldiscount="0" name="购买星芒"></item>
 	<item productID="262321" icon="" itemID="1727910" price="1" type="0" vip="1" productType="-1" malldiscount="0" name="购买碧影结晶"></item>
 	<item productID="262322" icon="" itemID="1727911" price="598" type="0" vip="1" productType="-1" malldiscount="0" name="一键觉醒圣光莫妮卡"></item>
+	<item productID="262323" icon="" itemID="1727913" price="1" type="0" vip="1" productType="-1" malldiscount="0" name="购买巨樽印章"></item>
+	<item productID="262324" icon="" itemID="1727914" price="1" type="0" vip="1" productType="-1" malldiscount="0" name="购买皮肤【了不起的莱茵哈特】单价"></item>
+	<item productID="262325" icon="" itemID="1727915" price="1" type="0" vip="1" productType="-1" malldiscount="0" name="购买皮肤【捣蛋魅影·米修莉】单价"></item>
+	<item productID="262326" icon="" itemID="1727916" price="1" type="0" vip="1" productType="-1" malldiscount="0" name="购买皮肤【怪盗气球·尤纳斯】单价"></item>
+	<item productID="262327" icon="" itemID="1727917" price="1" type="0" vip="1" productType="-1" malldiscount="0" name="购买【怪盗行动】组合礼包单价"></item>
+	<item productID="262328" icon="" itemID="1727922" price="10" type="0" vip="1" productType="-1" malldiscount="0" name="购买游戏次数"></item>
+	<item productID="262329" icon="" itemID="1727923" price="598" type="0" vip="1" productType="-1" malldiscount="0" name="至尊获得精灵【阿华华】"></item>
+	<item productID="262330" icon="" itemID="1727924" price="30" type="0" vip="1" productType="-1" malldiscount="0" name="购买每日挑战次数（阿华华）"></item>
+	<item productID="262331" icon="" itemID="1727925" price="20" type="0" vip="1" productType="-1" malldiscount="0" name="付费扫荡简单关卡（阿华华）"></item>
+	<item productID="262332" icon="" itemID="1727926" price="30" type="0" vip="1" productType="-1" malldiscount="0" name="付费扫荡困难关卡（阿华华）"></item>
+	<item productID="262333" icon="" itemID="1727927" price="40" type="0" vip="1" productType="-1" malldiscount="0" name="付费扫荡地狱关卡（阿华华）"></item>
+	<item productID="262334" icon="" itemID="1727928" price="2" type="0" vip="1" productType="-1" malldiscount="0" name="购买获得阿华华因子"></item>
+	<item productID="262335" icon="" itemID="1727932" price="1" type="0" vip="1" productType="-1" malldiscount="0" name="测试道具占位1"></item>
+	<item productID="262336" icon="" itemID="1727933" price="1" type="0" vip="1" productType="-1" malldiscount="0" name="测试道具占位2"></item>
 </root>
