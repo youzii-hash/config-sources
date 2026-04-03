@@ -13004,6 +13004,30 @@
         "pet_id": 4886
       },
       {
+        "move_id": 38327,
+        "move_name1": "谐",
+        "move_name2": "万灵归一",
+        "pet_id": 4887
+      },
+      {
+        "move_id": 38329,
+        "move_name1": "慈恩",
+        "move_name2": "宣叙调",
+        "pet_id": 4888
+      },
+      {
+        "move_id": 38332,
+        "move_name1": "初诞",
+        "move_name2": "始源胎动",
+        "pet_id": 4889
+      },
+      {
+        "move_id": 38335,
+        "move_name1": "方案",
+        "move_name2": "提交",
+        "pet_id": 4892
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",

@@ -14724,6 +14724,24 @@
         "jump_target": 2,
         "mon_id": 3711,
         "type": 0
+      },
+      {
+        "go": "",
+        "go_type": "module",
+        "name": "花间晴昼·瑞亚",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 820,
+        "jump_target": 114063,
+        "mon_id": 4888,
+        "type": 3
       }
     ]
   }
