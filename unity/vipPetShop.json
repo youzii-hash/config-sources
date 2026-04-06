@@ -36,10 +36,10 @@
       {
         "forever_half_pos": 0,
         "forever_key": 262358,
-        "is_extra": 0,
-        "judge_type": 0,
+        "is_extra": 1,
+        "judge_type": 121831,
         "limit_lv": 1,
-        "miditem_id": 1,
+        "miditem_id": 2,
         "mintmark_id": 5,
         "new_se": 1727959,
         "pet_id": 41139,
