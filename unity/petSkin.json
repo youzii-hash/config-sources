@@ -14600,8 +14600,8 @@
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "燕归青野·莫妮卡",
         "skin_kind": [
           {
@@ -14613,13 +14613,13 @@
           }
         ],
         "id": 813,
-        "jump_target": 114058,
+        "jump_target": 0,
         "mon_id": 3711,
         "type": 18
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "巨樽之灵·斯摩亚蒂",
         "skin_kind": [
           {
@@ -14631,13 +14631,13 @@
           }
         ],
         "id": 814,
-        "jump_target": 114060,
+        "jump_target": 0,
         "mon_id": 3541,
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "怪盗气球·尤纳斯",
         "skin_kind": [
           {
@@ -14649,13 +14649,13 @@
           }
         ],
         "id": 815,
-        "jump_target": 114060,
+        "jump_target": 0,
         "mon_id": 4717,
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "月圆之夜·月华",
         "skin_kind": [
           {
@@ -14667,13 +14667,13 @@
           }
         ],
         "id": 816,
-        "jump_target": 114060,
+        "jump_target": 0,
         "mon_id": 4462,
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "捣蛋魅影·米修莉",
         "skin_kind": [
           {
@@ -14685,13 +14685,13 @@
           }
         ],
         "id": 817,
-        "jump_target": 114060,
+        "jump_target": 0,
         "mon_id": 4808,
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "了不起的莱茵哈特",
         "skin_kind": [
           {
@@ -14703,13 +14703,13 @@
           }
         ],
         "id": 818,
-        "jump_target": 114060,
+        "jump_target": 0,
         "mon_id": 3516,
         "type": 18
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "莫妮卡",
         "skin_kind": [
           {
@@ -14721,7 +14721,7 @@
           }
         ],
         "id": 819,
-        "jump_target": 2,
+        "jump_target": 0,
         "mon_id": 3711,
         "type": 0
       },
@@ -14741,6 +14741,24 @@
         "id": 820,
         "jump_target": 114063,
         "mon_id": 4888,
+        "type": 3
+      },
+      {
+        "go": "",
+        "go_type": "module",
+        "name": "侠影之道·浩瀚昆仑",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 821,
+        "jump_target": 2,
+        "mon_id": 3729,
         "type": 3
       }
     ]

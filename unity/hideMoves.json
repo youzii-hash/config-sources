@@ -13028,6 +13028,18 @@
         "pet_id": 4892
       },
       {
+        "move_id": 38345,
+        "move_name1": "重甲",
+        "move_name2": "爆破拳",
+        "pet_id": 4890
+      },
+      {
+        "move_id": 38348,
+        "move_name1": "天驳",
+        "move_name2": "百州禁",
+        "pet_id": 4354
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",
