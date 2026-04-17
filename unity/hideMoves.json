@@ -13040,6 +13040,30 @@
         "pet_id": 4354
       },
       {
+        "move_id": 38351,
+        "move_name1": "信",
+        "move_name2": "惊悸神罚",
+        "pet_id": 4894
+      },
+      {
+        "move_id": 29328,
+        "move_name1": "天颂文",
+        "move_name2": "歌不落",
+        "pet_id": 4895
+      },
+      {
+        "move_id": 38357,
+        "move_name1": "霆辉",
+        "move_name2": "烬天野",
+        "pet_id": 4332
+      },
+      {
+        "move_id": 38358,
+        "move_name1": "极影",
+        "move_name2": "绘风岚",
+        "pet_id": 4358
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",
