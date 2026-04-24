@@ -13064,6 +13064,30 @@
         "pet_id": 4358
       },
       {
+        "move_id": 38369,
+        "move_name1": "烈霆",
+        "move_name2": "爆破弹",
+        "pet_id": 4897
+      },
+      {
+        "move_id": 38370,
+        "move_name1": "混沌",
+        "move_name2": "邪魂祭",
+        "pet_id": 3791
+      },
+      {
+        "move_id": 38371,
+        "move_name1": "寂",
+        "move_name2": "妖胧天鸣",
+        "pet_id": 3924
+      },
+      {
+        "move_id": 38372,
+        "move_name1": "夜",
+        "move_name2": "天魔逆相",
+        "pet_id": 3541
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",

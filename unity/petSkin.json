@@ -14814,6 +14814,42 @@
         "jump_target": 202000,
         "mon_id": 4895,
         "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "烬灭之灾·天邪龙王",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 825,
+        "jump_target": 114065,
+        "mon_id": 3575,
+        "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "凯兮",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 826,
+        "jump_target": 2,
+        "mon_id": 3870,
+        "type": 0
       }
     ]
   }

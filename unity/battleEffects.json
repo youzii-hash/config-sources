@@ -617,6 +617,21 @@
             "unrestriction": 2,
             "unweaken": 2,
             "weaken": 0
+          },
+          {
+            "ctrl": 2,
+            "dependent": 0,
+            "derivation": 0,
+            "efftype": 0,
+            "id": 41,
+            "name": "XX",
+            "restriction": 0,
+            "unctrl": 0,
+            "undependent": 2,
+            "underivation": 2,
+            "unrestriction": 2,
+            "unweaken": 2,
+            "weaken": 0
           }
         ],
         "type": 0
