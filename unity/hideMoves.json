@@ -13088,6 +13088,30 @@
         "pet_id": 3541
       },
       {
+        "move_id": 38375,
+        "move_name1": "万条赝手",
+        "move_name2": "的拥怀",
+        "pet_id": 4898
+      },
+      {
+        "move_id": 38381,
+        "move_name1": "强势",
+        "move_name2": "罢谈",
+        "pet_id": 4900
+      },
+      {
+        "move_id": 38378,
+        "move_name1": "荣光",
+        "move_name2": "盛阳礼赞",
+        "pet_id": 4899
+      },
+      {
+        "move_id": 38384,
+        "move_name1": "蔑天行",
+        "move_name2": "戾杀",
+        "pet_id": 4444
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",

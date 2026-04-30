@@ -9117,7 +9117,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 21,
             "type": 2,
             "year": 0
           }
@@ -9135,7 +9135,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 21,
             "type": 2,
             "year": 0
           }
@@ -9153,7 +9153,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 21,
             "type": 2,
             "year": 0
           }
@@ -9171,7 +9171,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 21,
             "type": 2,
             "year": 0
           }
@@ -9189,7 +9189,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 21,
             "type": 2,
             "year": 0
           }
@@ -14850,6 +14850,60 @@
         "jump_target": 2,
         "mon_id": 3870,
         "type": 0
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "戾夜萃魂·百罗鬼帝",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 827,
+        "jump_target": 114067,
+        "mon_id": 4444,
+        "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "破晓者·英卡洛斯",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 828,
+        "jump_target": 114068,
+        "mon_id": 3586,
+        "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "极速抢修·杰特洛",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 829,
+        "jump_target": 114069,
+        "mon_id": 4358,
+        "type": 3
       }
     ]
   }

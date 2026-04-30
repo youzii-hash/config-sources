@@ -4130,7 +4130,7 @@
         "tips": "暗穹之尘",
         "id": 160,
         "is_show_num": 0,
-        "show_monster": 0,
+        "show_monster": 4354,
         "show_time": 0,
         "sort": 1
       },
@@ -4525,6 +4525,98 @@
         "show_monster": 0,
         "show_time": 0,
         "sort": 4
+      },
+      {
+        "class_name": "*",
+        "dec": "鬼祰·魑",
+        "des": "直到下回合结束自身造成的攻击伤害翻倍",
+        "frame": [
+          "0_0",
+          "1_1"
+        ],
+        "num_des": "",
+        "sp_des": [],
+        "sp_icon": [],
+        "sp_tips": [],
+        "tips": "鬼祰·魑",
+        "id": 169,
+        "is_show_num": 0,
+        "show_monster": 0,
+        "show_time": 0,
+        "sort": 1
+      },
+      {
+        "class_name": "*",
+        "dec": "鬼祰·魅",
+        "des": "直到下回合结束自身抵挡对手的攻击",
+        "frame": [
+          "0_0",
+          "1_1"
+        ],
+        "num_des": "",
+        "sp_des": [],
+        "sp_icon": [],
+        "sp_tips": [],
+        "tips": "鬼祰·魅",
+        "id": 170,
+        "is_show_num": 0,
+        "show_monster": 0,
+        "show_time": 0,
+        "sort": 1
+      },
+      {
+        "class_name": "*",
+        "dec": "鬼祰·魍",
+        "des": "直到下回合结束对手受到的百分比伤害提升1/4",
+        "frame": [
+          "0_0",
+          "1_1"
+        ],
+        "num_des": "",
+        "sp_des": [],
+        "sp_icon": [],
+        "sp_tips": [],
+        "tips": "鬼祰·魍",
+        "id": 171,
+        "is_show_num": 0,
+        "show_monster": 0,
+        "show_time": 0,
+        "sort": 1
+      },
+      {
+        "class_name": "*",
+        "dec": "鬼祰·魉",
+        "des": "直到下回合结束自身攻击无视对手伤害限制效果",
+        "frame": [
+          "0_0",
+          "1_1"
+        ],
+        "num_des": "",
+        "sp_des": [],
+        "sp_icon": [],
+        "sp_tips": [],
+        "tips": "鬼祰·魉",
+        "id": 172,
+        "is_show_num": 0,
+        "show_monster": 0,
+        "show_time": 0,
+        "sort": 1
+      },
+      {
+        "class_name": "*",
+        "dec": "四杀鬼囹",
+        "des": "双方无法主动切换精灵，无法附加异常状态，无法恢复体力，所有技能命中效果失效",
+        "frame": [],
+        "num_des": "剩余回合",
+        "sp_des": [],
+        "sp_icon": [],
+        "sp_tips": [],
+        "tips": "四杀鬼囹",
+        "id": 173,
+        "is_show_num": 1,
+        "show_monster": 0,
+        "show_time": 0,
+        "sort": 1
       },
       {
         "class_name": "SignBuffView_1000",

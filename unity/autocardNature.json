@@ -16,6 +16,11 @@
       "pic_id": "fire"
     },
     {
+      "id": 4,
+      "name": "飞行",
+      "pic_id": "fly"
+    },
+    {
       "id": 5,
       "name": "电",
       "pic_id": "electric"
