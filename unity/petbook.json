@@ -1414,77 +1414,11 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4444,
-            "image_id": 4444,
+            "id": 4901,
+            "image_id": 4901,
             "label": 0,
             "mon_id": 0,
             "type": 0
-          },
-          {
-            "desc": "",
-            "go": "app/FinalActivityPanel",
-            "redirect": "module",
-            "mintmark": [],
-            "id": 4898,
-            "image_id": 4898,
-            "label": 0,
-            "mon_id": 0,
-            "type": 0
-          },
-          {
-            "desc": "",
-            "go": "app/FinalActivityPanel",
-            "redirect": "module",
-            "mintmark": [],
-            "id": 4899,
-            "image_id": 4899,
-            "label": 0,
-            "mon_id": 0,
-            "type": 0
-          },
-          {
-            "desc": "",
-            "go": "app/FinalActivityPanel",
-            "redirect": "module",
-            "mintmark": [],
-            "id": 4900,
-            "image_id": 4900,
-            "label": 0,
-            "mon_id": 0,
-            "type": 0
-          },
-          {
-            "desc": "",
-            "go": "app/FinalActivityPanel",
-            "redirect": "module",
-            "mintmark": [],
-            "id": 827,
-            "image_id": 1400827,
-            "label": 0,
-            "mon_id": 4444,
-            "type": 1
-          },
-          {
-            "desc": "",
-            "go": "app/FinalActivityPanel",
-            "redirect": "module",
-            "mintmark": [],
-            "id": 828,
-            "image_id": 1400828,
-            "label": 0,
-            "mon_id": 3586,
-            "type": 1
-          },
-          {
-            "desc": "",
-            "go": "app/FinalActivityPanel",
-            "redirect": "module",
-            "mintmark": [],
-            "id": 829,
-            "image_id": 1400829,
-            "label": 0,
-            "mon_id": 4358,
-            "type": 1
           }
         ]
       }
@@ -18503,7 +18437,7 @@
       {
         "def_name": "斯蒂丽亚",
         "features": "斯蒂亚超进化形态！通过汲取“风岚”宝石的力量，对风的力量的掌控至臻化境!",
-        "target": "",
+        "target": "150116",
         "id": 2851
       },
       {
@@ -18533,7 +18467,7 @@
       {
         "def_name": "萨瑞罗斯",
         "features": "萨瑞卡超进化！所有力量得到了全面的提升，X战队的团战中坚力量!",
-        "target": "",
+        "target": "150117",
         "id": 2856
       },
       {
@@ -18563,7 +18497,7 @@
       {
         "def_name": "托鲁克尔",
         "features": "托鲁克超进化！拥有令所有精灵都望尘莫及的速度，并把这种逆天般的速度转化为强大的战斗力!",
-        "target": "",
+        "target": "150118",
         "id": 2861
       },
       {
@@ -18593,7 +18527,7 @@
       {
         "def_name": "赛伯斯塔",
         "features": "赛伯斯特超进化形态！超强炮台重组完成，机械核心整装待发！正义炮台，即将发射!",
-        "target": "",
+        "target": "150119",
         "id": 2866
       },
       {
@@ -18743,7 +18677,7 @@
       {
         "def_name": "凯普斯特",
         "features": "先锋队长为了正义而蜕变出全新的能量。圣盾经过重新的锻造，更加的坚实，绝对是正义的守护者!",
-        "target": "",
+        "target": "150120",
         "id": 2891
       },
       {
@@ -18785,7 +18719,7 @@
       {
         "def_name": "英普力亚",
         "features": "英普瑞斯超进化！为了守卫最终的正义而开启的更强进化，拥有更加强悍的消耗能力!",
-        "target": "",
+        "target": "150121",
         "id": 2898
       },
       {
@@ -30679,6 +30613,12 @@
         "features": "2026年包月精灵，万象录之《长袖善舞之人》。他曾是周旋于帝国和拉斯塔商会之间的外交官，千人千面，巧言令色，凭着过人辞令游走于权力的缝隙。他比谁都清楚话语的重量，也比谁都明白——说得再好听，终究是一场表演。",
         "target": "121000",
         "id": 4900
+      },
+      {
+        "def_name": "特维耶",
+        "features": "特维耶，波卢卡反抗军侦查连队的队长。性格轻浮的他不厌其烦的“骚扰”每一个战友，但那也成为了反抗军艰难生活中的小小调味剂。",
+        "target": "153201/906",
+        "id": 4901
       }
     ],
     "rec_mintmark": {
