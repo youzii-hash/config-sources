@@ -14744,8 +14744,8 @@
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "侠影之道·浩瀚昆仑",
         "skin_kind": [
           {
@@ -14757,7 +14757,7 @@
           }
         ],
         "id": 821,
-        "jump_target": 2,
+        "jump_target": 0,
         "mon_id": 3729,
         "type": 3
       },
@@ -14816,8 +14816,8 @@
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "烬灭之灾·天邪龙王",
         "skin_kind": [
           {
@@ -14829,13 +14829,13 @@
           }
         ],
         "id": 825,
-        "jump_target": 114065,
+        "jump_target": 0,
         "mon_id": 3575,
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "凯兮",
         "skin_kind": [
           {
@@ -14847,13 +14847,13 @@
           }
         ],
         "id": 826,
-        "jump_target": 2,
+        "jump_target": 0,
         "mon_id": 3870,
         "type": 0
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "戾夜萃魂·百罗鬼帝",
         "skin_kind": [
           {
@@ -14865,13 +14865,13 @@
           }
         ],
         "id": 827,
-        "jump_target": 114067,
+        "jump_target": 0,
         "mon_id": 4444,
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "破晓者·英卡洛斯",
         "skin_kind": [
           {
@@ -14883,13 +14883,13 @@
           }
         ],
         "id": 828,
-        "jump_target": 114068,
+        "jump_target": 0,
         "mon_id": 3586,
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "极速抢修·杰特洛",
         "skin_kind": [
           {
@@ -14901,8 +14901,44 @@
           }
         ],
         "id": 829,
-        "jump_target": 114069,
+        "jump_target": 0,
         "mon_id": 4358,
+        "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "凛夜将至·柯尔德",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 830,
+        "jump_target": 114071,
+        "mon_id": 3886,
+        "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "荣光之约·蒙鲁特",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 831,
+        "jump_target": 2,
+        "mon_id": 4629,
         "type": 3
       }
     ]

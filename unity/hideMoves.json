@@ -1,5 +1,6 @@
 {
   "root": {
+    "_text": "\r\n\r\n1313\r\n\r\n\t\t",
     "item": [
       {
         "move_id": 15444,
@@ -13116,6 +13117,18 @@
         "move_name1": "枪火",
         "move_name2": "革命",
         "pet_id": 4901
+      },
+      {
+        "move_id": 38390,
+        "move_name1": "自",
+        "move_name2": "万物定理",
+        "pet_id": 4902
+      },
+      {
+        "move_id": 38393,
+        "move_name1": "万苍",
+        "move_name2": "书帝录",
+        "pet_id": 4903
       },
       {
         "move_id": 31143,

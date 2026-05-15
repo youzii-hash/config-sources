@@ -186,12 +186,12 @@
       ],
       "daily_red": 0,
       "id": 12,
-      "iosreviewshow": 1,
+      "iosreviewshow": 0,
       "isdeadline": 0,
-      "isshow": 1,
+      "isshow": 0,
       "jumptarget": 360000,
       "priority": 5,
-      "truepos": 1,
+      "truepos": 0,
       "type": 2
     },
     {
