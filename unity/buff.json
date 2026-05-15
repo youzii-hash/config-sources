@@ -33421,6 +33421,70 @@
       ],
       "icontype": 0,
       "id": 4546
+    },
+    {
+      "desc": "{roundnext[0]}自身造成的固定伤害和百分比伤害提高25%",
+      "tag": "增伤",
+      "desc_tag": "roundnext",
+      "icon": [],
+      "icontype": 0,
+      "id": 4547
+    },
+    {
+      "desc": "{roundnext[0]}内自身免疫受到的异常状态",
+      "tag": "免疫异常",
+      "desc_tag": "roundnext",
+      "icon": [
+        22
+      ],
+      "icontype": 0,
+      "id": 4548
+    },
+    {
+      "desc": "{0}回合内自身造成的攻击伤害提升100%",
+      "tag": "增伤",
+      "desc_tag": "",
+      "icon": [],
+      "icontype": 0,
+      "id": 4549
+    },
+    {
+      "desc": "{0}回合内自身抵挡受到的致命一击",
+      "tag": "免伤",
+      "desc_tag": "",
+      "icon": [
+        25
+      ],
+      "icontype": 0,
+      "id": 4550
+    },
+    {
+      "desc": "{0}回合内令对手体力恢复效果减少50%",
+      "tag": "降疗",
+      "desc_tag": "",
+      "icon": [
+        28
+      ],
+      "icontype": 0,
+      "id": 4551
+    },
+    {
+      "desc": "{0}回合内每回合结束吸取对手所有技能1点PP值",
+      "tag": "吸取PP",
+      "desc_tag": "",
+      "icon": [
+        9
+      ],
+      "icontype": 0,
+      "id": 4552
+    },
+    {
+      "desc": "{0}回合内自身造成的固定伤害、百分比伤害额外提升30%",
+      "tag": "增伤",
+      "desc_tag": "",
+      "icon": [],
+      "icontype": 0,
+      "id": 4553
     }
   ]
 }

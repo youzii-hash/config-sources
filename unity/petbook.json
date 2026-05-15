@@ -1414,11 +1414,44 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4901,
-            "image_id": 4901,
+            "id": 4902,
+            "image_id": 4902,
             "label": 0,
             "mon_id": 0,
             "type": 0
+          },
+          {
+            "desc": "",
+            "go": "app/FinalActivityPanel",
+            "redirect": "module",
+            "mintmark": [],
+            "id": 4903,
+            "image_id": 4903,
+            "label": 0,
+            "mon_id": 0,
+            "type": 0
+          },
+          {
+            "desc": "",
+            "go": "app/FinalActivityPanel",
+            "redirect": "module",
+            "mintmark": [],
+            "id": 830,
+            "image_id": 1400830,
+            "label": 0,
+            "mon_id": 3886,
+            "type": 1
+          },
+          {
+            "desc": "",
+            "go": "app/FinalActivityPanel",
+            "redirect": "module",
+            "mintmark": [],
+            "id": 831,
+            "image_id": 1400831,
+            "label": 0,
+            "mon_id": 4629,
+            "type": 1
           }
         ]
       }
@@ -21707,7 +21740,7 @@
       {
         "def_name": "格劳恩斯",
         "features": "火系精灵王艾恩斯与电系精灵王格劳瑞的合体形态，成为了火、电双属性的精灵王，不仅拥有烈火般强劲的实力，还有象征荣耀的谦逊性格！",
-        "target": "",
+        "target": "150123",
         "id": 3407
       },
       {
@@ -23087,7 +23120,7 @@
       {
         "def_name": "不灭地威·萨瑞卡",
         "features": "X战队之萨瑞卡完全体形态，拥有着绝对防御的护盾，几乎可以抵挡任何的攻击伤害！最喜欢吃的食物是力量肉丸...",
-        "target": "",
+        "target": "150122",
         "id": 3637
       },
       {
@@ -27881,7 +27914,7 @@
       {
         "def_name": "百罗鬼帝",
         "features": "百鬼夜王的超进化形态，天罗阙鬼的释怀，邪冥骷鬼的解脱，至此，世间再没有百鬼与夜王，只剩一条被过去希冀与狂妄所诅咒的，自视孤高的野犬。",
-        "target": "114066",
+        "target": "",
         "id": 4444
       },
       {
@@ -30619,6 +30652,18 @@
         "features": "特维耶，波卢卡反抗军侦查连队的队长。性格轻浮的他不厌其烦的“骚扰”每一个战友，但那也成为了反抗军艰难生活中的小小调味剂。",
         "target": "153201/906",
         "id": 4901
+      },
+      {
+        "def_name": "莱布缇",
+        "features": "“博士”，万神殿系统的创造者，黄金教廷的背叛者，出卖了整个世界之人，带领赛尔等人前往了毁灭的家园阿派罗尼亚。",
+        "target": "153201/914",
+        "id": 4902
+      },
+      {
+        "def_name": "帝录天锋",
+        "features": "帝王之刃的完全体形态，上古的封印终于破除，魔剑原本的样貌终于重见天日！",
+        "target": "114070",
+        "id": 4903
       }
     ],
     "rec_mintmark": {

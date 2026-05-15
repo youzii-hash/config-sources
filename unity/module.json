@@ -5287,7 +5287,7 @@
       "res_config": []
     },
     {
-      "curr_app_do": 0,
+      "curr_app_do": 1,
       "id": 876,
       "is_full_screen": 1,
       "module_name": "FireAndElectricityPet",
@@ -5312,6 +5312,41 @@
       "id": 879,
       "is_full_screen": 0,
       "module_name": "SignSFW",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 880,
+      "is_full_screen": 0,
+      "module_name": "freepet0515",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 881,
+      "is_full_screen": 0,
+      "module_name": "fifteenyearsign",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 882,
+      "is_full_screen": 0,
+      "module_name": "eyesOfLaikaActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 883,
+      "is_full_screen": 1,
+      "module_name": "eyesOfLaikaGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 884,
+      "is_full_screen": 1,
+      "module_name": "inkShadowStarSoul",
       "res_config": []
     },
     {
@@ -5393,14 +5428,14 @@
     },
     {
       "curr_app_do": 1,
-      "id": 1032,
+      "id": 1033,
       "is_full_screen": 1,
       "module_name": "bmdwSaruikaActivityCenter",
       "res_config": []
     },
     {
       "curr_app_do": 1,
-      "id": 1033,
+      "id": 1032,
       "is_full_screen": 1,
       "module_name": "bmdwSaruikaMainPanel",
       "res_config": []
@@ -5417,6 +5452,27 @@
       "id": 1035,
       "is_full_screen": 1,
       "module_name": "jumpParkourGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1036,
+      "is_full_screen": 1,
+      "module_name": "storyAnniversary2026Activitycenter",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1037,
+      "is_full_screen": 1,
+      "module_name": "sanYgmActivityPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1038,
+      "is_full_screen": 0,
+      "module_name": "newSeerToolbarGuide",
       "res_config": []
     },
     {
